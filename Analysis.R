@@ -319,22 +319,8 @@ apa.reg.table(m11, filename= "m11_white.doc")
 apa.reg.table(m12, filename= "m12_white.doc")
 
 
-## Check models here plz
+## Do model diagnostis
 
-check_model(m3)
-
-
-
-p5 <- ggplot(data=d_comb2, aes(x=adjusted_income, group= mrace, fill=mrace)) +
-  geom_boxplot()
-
-p5
-
-p6 <- ggplot(data=d_comb2, aes(x=meduc, group= mrace, fill=mrace)) +
-  geom_bar()
-
-p6
+check_model(m1) ## repeat for each model 
 
 
-
-p1

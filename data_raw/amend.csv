@@ -1,0 +1,1504 @@
+﻿STUDYID,M3NSF_SEX,M3LD_LABORTYP,M1DEM_MOTHERS_AGE,M1DEM_INCOME,M1DEM_EDUC,M1DEM_RACEID,M1MB_TOBACCO,M1MB_TOTALPREG,M1MB_BMI
+1,1:Male,3:Induced,21,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,18.1
+2,1:Male,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,1:Yes,1,27.1
+3,1:Male,"2:Spontaneous, augmented",24,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,24.9
+4,2:Female,"2:Spontaneous, augmented",22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,28.3
+5,1:Male,"2:Spontaneous, augmented",19,.U:Unknown,1:< High School,1:Black/African American,1:Yes,2,18.1
+6,2:Female,"2:Spontaneous, augmented",18,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,19.2
+7,1:Male,3:Induced,25,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,26.1
+8,1:Male,1:Spontaneous,26,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,5,28.4
+9,2:Female,"2:Spontaneous, augmented",26,"6:$25,000-$34,999",1:< High School,1:Black/African American,1:Yes,5,21.4
+10,1:Male,4:No Labor,29,.U:Unknown,2:High School/GED,1:Black/African American,0:No,4,33.5
+11,1:Male,"2:Spontaneous, augmented",19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,24.9
+12,1:Male,"2:Spontaneous, augmented",22,.U:Unknown,1:< High School,1:Black/African American,0:No,3,20.6
+13,1:Male,"2:Spontaneous, augmented",21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,21.9
+14,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,34.3
+15,2:Female,1:Spontaneous,38,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,9,21.2
+16,1:Male,"2:Spontaneous, augmented",23,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,4,36.9
+17,2:Female,1:Spontaneous,22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,4,41.6
+18,2:Female,4:No Labor,19,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,1,22.9
+19,2:Female,"2:Spontaneous, augmented",20,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,2,32
+20,1:Male,"2:Spontaneous, augmented",25,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,6,32.7
+21,2:Female,3:Induced,22,"5:$20,000-$24,999",1:< High School,1:Black/African American,0:No,1,31.4
+22,2:Female,"2:Spontaneous, augmented",19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,19.1
+23,2:Female,4:No Labor,19,.U:Unknown,1:< High School,1:Black/African American,0:No,3,28.4
+24,1:Male,1:Spontaneous,18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,23.8
+25,1:Male,"2:Spontaneous, augmented",32,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,5,29.7
+26,1:Male,3:Induced,28,"1:$0-$4,999",3:Technical School,2:White,0:No,1,38.3
+27,2:Female,"2:Spontaneous, augmented",24,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,6,17
+28,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,18.2
+29,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,31
+30,1:Male,1:Spontaneous,25,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,27.1
+31,2:Female,.:Missing,16,"5:$20,000-$24,999",1:< High School,1:Black/African American,0:No,1,21.2
+32,1:Male,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,22.6
+33,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,6,28.4
+34,1:Male,1:Spontaneous,27,.U:Unknown,.:Missing,1:Black/African American,1:Yes,7,28.8
+35,1:Male,4:No Labor,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,24.9
+36,1:Male,"2:Spontaneous, augmented",25,"3:$10,000-$14,999",3:Technical School,1:Black/African American,1:Yes,4,19
+37,1:Male,1:Spontaneous,28,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,7,37
+38,2:Female,"2:Spontaneous, augmented",27,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,5,34.1
+39,1:Male,3:Induced,25,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,1:Yes,3,23.1
+40,1:Male,3:Induced,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,21.7
+41,2:Female,"2:Spontaneous, augmented",29,"2:$5,000-$9,999",1:< High School,1:Black/African American,1:Yes,5,38.9
+42,1:Male,"2:Spontaneous, augmented",25,.U:Unknown,1:< High School,1:Black/African American,0:No,2,19
+43,2:Female,"2:Spontaneous, augmented",23,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,19.4
+44,1:Male,3:Induced,18,.U:Unknown,1:< High School,1:Black/African American,0:No,2,24.6
+45,1:Male,1:Spontaneous,25,.U:Unknown,1:< High School,1:Black/African American,0:No,5,21.7
+46,1:Male,1:Spontaneous,27,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,51.8
+47,2:Female,3:Induced,30,.U:Unknown,2:High School/GED,1:Black/African American,0:No,5,37.9
+48,2:Female,4:No Labor,25,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,41
+49,2:Female,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,2,25.7
+50,1:Male,3:Induced,29,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,32.5
+51,1:Male,1:Spontaneous,28,"1:$0-$4,999",1:< High School,2:White,1:Yes,6,18.6
+52,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,1:< High School,1:Black/African American,0:No,3,21.1
+53,2:Female,"2:Spontaneous, augmented",17,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,27.5
+54,1:Male,1:Spontaneous,23,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,3,19.5
+55,1:Male,"2:Spontaneous, augmented",23,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,19.9
+56,1:Male,1:Spontaneous,22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,30.3
+57,1:Male,1:Spontaneous,29,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,6,25.4
+58,1:Male,3:Induced,23,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,.:Missing
+59,2:Female,3:Induced,23,.U:Unknown,1:< High School,2:White,1:Yes,3,19.6
+60,2:Female,4:No Labor,25,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,4,22.2
+61,1:Male,3:Induced,24,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,6,33.2
+62,1:Male,3:Induced,25,.U:Unknown,4:College Degree,1:Black/African American,1:Yes,3,47.9
+63,1:Male,4:No Labor,26,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,26.7
+64,1:Male,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,28.4
+65,2:Female,1:Spontaneous,27,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,5,26.6
+66,1:Male,"2:Spontaneous, augmented",19,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,3,21.3
+67,1:Male,1:Spontaneous,19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,20.3
+68,1:Male,1:Spontaneous,22,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,22.3
+69,2:Female,4:No Labor,22,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,3,39.9
+70,.:Missing,.:Missing,22,"3:$10,000-$14,999",4:College Degree,1:Black/African American,0:No,2,17.3
+71,2:Female,3:Induced,22,.U:Unknown,2:High School/GED,1:Black/African American,1:Yes,1,33.3
+72,2:Female,"2:Spontaneous, augmented",19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,.:Missing
+73,1:Male,"2:Spontaneous, augmented",27,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,8,25.7
+74,2:Female,3:Induced,16,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,1,23
+75,2:Female,1:Spontaneous,20,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,29.4
+76,1:Male,"2:Spontaneous, augmented",20,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,25.7
+77,1:Male,4:No Labor,26,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,29.9
+78,1:Male,"2:Spontaneous, augmented",20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,33.8
+79,1:Male,"2:Spontaneous, augmented",23,.U:Unknown,2:High School/GED,1:Black/African American,0:No,5,18.8
+80,1:Male,"2:Spontaneous, augmented",21,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,3,25.5
+81,2:Female,3:Induced,18,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,41.7
+82,1:Male,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,22.4
+83,2:Female,4:No Labor,25,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,31.3
+84,1:Male,"2:Spontaneous, augmented",16,.U:Unknown,1:< High School,1:Black/African American,0:No,1,23.8
+86,1:Male,1:Spontaneous,26,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,31.6
+87,2:Female,3:Induced,19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,36.9
+88,1:Male,4:No Labor,24,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,29.9
+89,2:Female,.:Missing,22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,33.8
+90,1:Male,1:Spontaneous,22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,25.1
+91,1:Male,3:Induced,26,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,2,33.2
+92,1:Male,3:Induced,21,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,30.1
+93,1:Male,1:Spontaneous,22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,17.2
+94,1:Male,1:Spontaneous,25,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,5,43.3
+95,2:Female,1:Spontaneous,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,25.8
+96,1:Male,1:Spontaneous,20,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,20.5
+97,2:Female,"2:Spontaneous, augmented",27,.U:Unknown,2:High School/GED,1:Black/African American,0:No,5,19.9
+98,1:Male,"2:Spontaneous, augmented",22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,25.9
+99,2:Female,"2:Spontaneous, augmented",21,"1:$0-$4,999",3:Technical School,6:Other,1:Yes,2,25
+100,2:Female,4:No Labor,20,.U:Unknown,1:< High School,1:Black/African American,0:No,5,21.1
+101,.:Missing,.:Missing,19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,18.5
+102,.:Missing,.:Missing,24,"1:$0-$4,999",3:Technical School,1:Black/African American,0:No,3,22.4
+103,2:Female,1:Spontaneous,20,.U:Unknown,2:High School/GED,1:Black/African American,1:Yes,3,28
+104,2:Female,4:No Labor,37,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,2,31.5
+105,1:Male,1:Spontaneous,16,"4:$15,000-$19,999",1:< High School,6:Other,0:No,1,24.8
+106,1:Male,4:No Labor,23,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,4,56.9
+107,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,2:High School/GED,2:White,0:No,1,24.9
+108,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,23.7
+109,1:Male,4:No Labor,24,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,2,27.1
+110,2:Female,1:Spontaneous,19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,21.2
+111,1:Male,3:Induced,23,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,3,44.4
+112,2:Female,1:Spontaneous,25,.U:Unknown,2:High School/GED,1:Black/African American,0:No,4,18.6
+113,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,19.8
+114,1:Male,1:Spontaneous,27,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,18.5
+115,2:Female,1:Spontaneous,30,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,8,27.4
+116,1:Male,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,21
+117,1:Male,1:Spontaneous,22,.U:Unknown,1:< High School,1:Black/African American,0:No,4,21.9
+118,1:Male,3:Induced,19,.U:Unknown,3:Technical School,1:Black/African American,0:No,1,.:Missing
+119,2:Female,4:No Labor,26,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,4,27.4
+120,1:Male,1:Spontaneous,23,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,36.3
+121,.:Missing,.:Missing,23,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,21
+122,1:Male,"2:Spontaneous, augmented",25,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,24
+123,.:Missing,.:Missing,27,.U:Unknown,2:High School/GED,2:White,0:No,2,48.5
+124,2:Female,3:Induced,22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,4,20.6
+125,1:Male,1:Spontaneous,29,"11:$75,000 or over",4:College Degree,2:White,0:No,3,23.5
+126,1:Male,1:Spontaneous,25,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,2,30.5
+127,2:Female,1:Spontaneous,34,.U:Unknown,2:High School/GED,1:Black/African American,0:No,5,24.3
+128,1:Male,4:No Labor,22,.U:Unknown,3:Technical School,1:Black/African American,0:No,3,24.6
+129,2:Female,1:Spontaneous,21,.U:Unknown,2:High School/GED,1:Black/African American,1:Yes,5,26.6
+130,1:Male,1:Spontaneous,22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,16.6
+131,2:Female,3:Induced,23,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,3,17.7
+132,.:Missing,.:Missing,21,.U:Unknown,3:Technical School,1:Black/African American,1:Yes,1,48
+133,2:Female,1:Spontaneous,19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,36.6
+134,1:Male,1:Spontaneous,21,.U:Unknown,4:College Degree,1:Black/African American,0:No,3,26.9
+135,.:Missing,.:Missing,23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,23.8
+136,1:Male,3:Induced,21,.U:Unknown,1:< High School,1:Black/African American,1:Yes,2,25.7
+137,1:Male,3:Induced,21,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,42.9
+138,1:Male,1:Spontaneous,32,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,21.8
+139,2:Female,1:Spontaneous,20,.U:Unknown,1:< High School,1:Black/African American,0:No,2,19.2
+140,2:Female,4:No Labor,25,.U:Unknown,1:< High School,1:Black/African American,0:No,7,40.7
+141,.:Missing,.:Missing,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,18.2
+142,.:Missing,.:Missing,19,.U:Unknown,2:High School/GED,4:American Indian/Alaska Native,0:No,1,20.7
+143,2:Female,1:Spontaneous,21,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,20.2
+144,2:Female,1:Spontaneous,25,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,37.9
+145,2:Female,"2:Spontaneous, augmented",18,"1:$0-$4,999",.U:Unknown,.:Missing,0:No,3,31.2
+146,1:Male,4:No Labor,23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,31.2
+147,2:Female,1:Spontaneous,24,.U:Unknown,4:College Degree,1:Black/African American,0:No,3,48.8
+148,2:Female,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,19.1
+149,2:Female,"2:Spontaneous, augmented",22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,45.5
+150,2:Female,.:Missing,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,34.2
+151,2:Female,1:Spontaneous,26,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,27.4
+152,1:Male,1:Spontaneous,21,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,42.3
+153,1:Male,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,39
+154,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,1:< High School,2:White,1:Yes,2,21.5
+155,1:Male,"2:Spontaneous, augmented",27,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,28.3
+156,.:Missing,.:Missing,24,.U:Unknown,1:< High School,2:White,0:No,2,22.3
+157,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,5,21.6
+158,1:Male,1:Spontaneous,24,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,6,49.9
+159,1:Male,1:Spontaneous,27,"6:$25,000-$34,999",2:High School/GED,6:Other,1:Yes,3,22.1
+160,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,25.4
+161,2:Female,3:Induced,19,.U:Unknown,2:High School/GED,6:Other,1:Yes,1,17.8
+162,1:Male,1:Spontaneous,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,33.1
+163,2:Female,"2:Spontaneous, augmented",23,"11:$75,000 or over",1:< High School,2:White,0:No,2,39
+164,1:Male,1:Spontaneous,18,.U:Unknown,1:< High School,1:Black/African American,0:No,2,21
+165,1:Male,1:Spontaneous,21,"7:$35,000-$44,999",1:< High School,2:White,1:Yes,2,39.4
+166,1:Male,1:Spontaneous,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,2,.:Missing
+167,1:Male,1:Spontaneous,33,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,3,35.8
+168,1:Male,4:No Labor,30,"2:$5,000-$9,999",4:College Degree,1:Black/African American,0:No,2,54.9
+169,1:Male,"2:Spontaneous, augmented",28,"1:$0-$4,999",3:Technical School,1:Black/African American,0:No,7,27.4
+170,1:Male,4:No Labor,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,19
+171,1:Male,3:Induced,23,.U:Unknown,1:< High School,1:Black/African American,0:No,4,35.8
+172,2:Female,"2:Spontaneous, augmented",20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,22.9
+173,1:Male,"2:Spontaneous, augmented",28,"5:$20,000-$24,999",1:< High School,1:Black/African American,0:No,6,30.7
+174,1:Male,1:Spontaneous,25,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,22.2
+175,1:Male,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,34.7
+176,1:Male,1:Spontaneous,22,"1:$0-$4,999",4:College Degree,1:Black/African American,0:No,1,24.1
+177,1:Male,3:Induced,28,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,5,30.3
+178,1:Male,1:Spontaneous,27,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,1,30.1
+179,2:Female,4:No Labor,31,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,43.3
+180,1:Male,1:Spontaneous,22,.U:Unknown,1:< High School,1:Black/African American,0:No,5,18.3
+181,1:Male,1:Spontaneous,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,21.2
+182,1:Male,"2:Spontaneous, augmented",19,.U:Unknown,1:< High School,1:Black/African American,0:No,1,18.1
+183,1:Male,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,18.5
+184,1:Male,3:Induced,18,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,47
+185,2:Female,4:No Labor,23,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,3,.:Missing
+186,.:Missing,.:Missing,19,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,1,24.1
+187,2:Female,"2:Spontaneous, augmented",23,.U:Unknown,2:High School/GED,1:Black/African American,1:Yes,3,24.5
+188,2:Female,3:Induced,36,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,19.6
+189,1:Male,"2:Spontaneous, augmented",19,.U:Unknown,3:Technical School,1:Black/African American,0:No,1,21.6
+190,.:Missing,.:Missing,19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,17.2
+191,1:Male,1:Spontaneous,24,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,2,24.9
+192,2:Female,4:No Labor,26,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,5,24.1
+193,1:Male,"2:Spontaneous, augmented",19,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,1,17.4
+194,1:Male,1:Spontaneous,29,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,6,37.5
+195,2:Female,1:Spontaneous,18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,18.6
+196,1:Male,1:Spontaneous,20,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,1,24.8
+197,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,32.9
+198,2:Female,"2:Spontaneous, augmented",23,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,3,19.5
+199,1:Male,3:Induced,31,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,3,28.7
+200,1:Male,1:Spontaneous,22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,27.3
+201,2:Female,1:Spontaneous,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,26.5
+202,.:Missing,.:Missing,18,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,19.5
+203,2:Female,.:Missing,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,16.8
+204,2:Female,3:Induced,28,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,8,33.3
+205,2:Female,"2:Spontaneous, augmented",19,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,16.9
+206,1:Male,"2:Spontaneous, augmented",29,"2:$5,000-$9,999",1:< High School,2:White,0:No,7,32.7
+207,1:Male,4:No Labor,18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,44.8
+208,1:Male,3:Induced,22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,21.8
+209,2:Female,3:Induced,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,29.3
+210,2:Female,"2:Spontaneous, augmented",38,.U:Unknown,3:Technical School,1:Black/African American,1:Yes,3,25.5
+211,2:Female,3:Induced,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,32.2
+212,1:Male,1:Spontaneous,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,15.3
+213,2:Female,3:Induced,23,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,34.5
+214,2:Female,1:Spontaneous,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,19.2
+215,1:Male,1:Spontaneous,21,"1:$0-$4,999",3:Technical School,1:Black/African American,0:No,2,39.1
+216,.:Missing,.:Missing,22,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,27.7
+217,1:Male,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,20.4
+218,2:Female,4:No Labor,19,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,3,18
+219,1:Male,"2:Spontaneous, augmented",21,.U:Unknown,1:< High School,1:Black/African American,0:No,3,24.1
+220,2:Female,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,27.2
+221,2:Female,"2:Spontaneous, augmented",26,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,5,28.6
+222,1:Male,"2:Spontaneous, augmented",27,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,3,44.1
+223,2:Female,1:Spontaneous,25,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,3,37.8
+224,.:Missing,.:Missing,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,28.5
+225,2:Female,4:No Labor,22,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,40
+226,2:Female,3:Induced,18,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,29.2
+227,1:Male,4:No Labor,34,"1:$0-$4,999",3:Technical School,1:Black/African American,0:No,5,23.8
+228,2:Female,"2:Spontaneous, augmented",26,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,7,21
+229,1:Male,4:No Labor,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,44.8
+230,2:Female,1:Spontaneous,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,21
+231,2:Female,"2:Spontaneous, augmented",20,.U:Unknown,1:< High School,1:Black/African American,0:No,4,21
+232,1:Male,4:No Labor,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,40.7
+233,2:Female,3:Induced,21,.U:Unknown,1:< High School,1:Black/African American,1:Yes,1,23
+234,1:Male,"2:Spontaneous, augmented",18,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,20.2
+235,2:Female,"2:Spontaneous, augmented",25,.U:Unknown,2:High School/GED,1:Black/African American,0:No,3,20.4
+236,2:Female,"2:Spontaneous, augmented",16,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,21.9
+237,2:Female,"2:Spontaneous, augmented",19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,28.3
+238,1:Male,1:Spontaneous,26,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,28
+239,2:Female,1:Spontaneous,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,28.3
+240,2:Female,3:Induced,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,41.5
+241,1:Male,4:No Labor,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,35
+242,2:Female,1:Spontaneous,26,"3:$10,000-$14,999",1:< High School,1:Black/African American,1:Yes,3,27.9
+243,2:Female,3:Induced,19,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,1,25.1
+244,2:Female,3:Induced,18,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,28.3
+245,2:Female,3:Induced,18,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,37.2
+246,1:Male,"2:Spontaneous, augmented",19,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,3,30.1
+247,1:Male,3:Induced,18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,19.8
+248,1:Male,"2:Spontaneous, augmented",20,.U:Unknown,1:< High School,1:Black/African American,0:No,2,40.7
+249,2:Female,1:Spontaneous,27,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,1,27.3
+250,1:Male,"2:Spontaneous, augmented",16,.U:Unknown,1:< High School,1:Black/African American,0:No,1,15.2
+251,2:Female,1:Spontaneous,23,.U:Unknown,2:High School/GED,1:Black/African American,0:No,4,25
+252,2:Female,3:Induced,29,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,4,25.1
+253,1:Male,3:Induced,21,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,1,20.4
+254,1:Male,3:Induced,25,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,2,23.6
+255,1:Male,1:Spontaneous,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,18.9
+256,1:Male,4:No Labor,39,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,5,26.6
+257,1:Male,"2:Spontaneous, augmented",27,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,2,29.2
+258,1:Male,4:No Labor,24,"3:$10,000-$14,999",1:< High School,2:White,1:Yes,2,29.1
+259,1:Male,1:Spontaneous,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,26.5
+260,1:Male,"2:Spontaneous, augmented",18,.U:Unknown,1:< High School,1:Black/African American,0:No,2,16.8
+261,2:Female,1:Spontaneous,18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,27.4
+262,1:Male,"2:Spontaneous, augmented",19,.U:Unknown,2:High School/GED,.:Missing,0:No,1,23.8
+263,2:Female,1:Spontaneous,29,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,4,19.2
+264,2:Female,4:No Labor,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,25.8
+265,1:Male,"2:Spontaneous, augmented",22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,37.5
+266,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,3,20.4
+267,2:Female,1:Spontaneous,21,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,19.8
+268,2:Female,"2:Spontaneous, augmented",21,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,2,43.4
+269,1:Male,4:No Labor,21,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,1,21.4
+270,2:Female,1:Spontaneous,24,"5:$20,000-$24,999",1:< High School,2:White,0:No,5,25
+271,2:Female,3:Induced,18,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,1,20.3
+272,2:Female,"2:Spontaneous, augmented",25,"1:$0-$4,999",2:High School/GED,2:White,0:No,2,21.8
+273,1:Male,4:No Labor,26,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,37.7
+274,1:Male,3:Induced,20,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,25
+275,2:Female,3:Induced,23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,1,31.6
+276,1:Male,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,1,17.2
+277,1:Male,4:No Labor,26,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,4,44.9
+278,2:Female,4:No Labor,19,"6:$25,000-$34,999",1:< High School,2:White,1:Yes,3,21
+279,2:Female,1:Spontaneous,28,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,2,43.8
+280,1:Male,1:Spontaneous,22,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,3,21
+281,2:Female,"2:Spontaneous, augmented",26,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,3,23.6
+282,2:Female,"2:Spontaneous, augmented",25,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,21.5
+283,1:Male,4:No Labor,23,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,6,34.2
+284,2:Female,"2:Spontaneous, augmented",27,.U:Unknown,2:High School/GED,1:Black/African American,0:No,7,16.2
+285,2:Female,4:No Labor,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,24.4
+286,2:Female,4:No Labor,19,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,18.6
+287,2:Female,"2:Spontaneous, augmented",16,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,1,18.7
+288,1:Male,"2:Spontaneous, augmented",30,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,5,45.7
+289,2:Female,4:No Labor,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,23.3
+290,2:Female,1:Spontaneous,29,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,20
+291,2:Female,"2:Spontaneous, augmented",26,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,40.8
+292,1:Male,4:No Labor,16,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,1,54.6
+293,1:Male,1:Spontaneous,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,22
+294,2:Female,4:No Labor,26,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,5,41.4
+295,1:Male,1:Spontaneous,18,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,22
+296,1:Male,1:Spontaneous,28,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,4,46.9
+297,2:Female,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,1,25.5
+298,1:Male,"2:Spontaneous, augmented",19,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,1,29.9
+299,1:Male,1:Spontaneous,24,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,6,23.1
+300,2:Female,1:Spontaneous,20,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,20.7
+301,.:Missing,.:Missing,25,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,1:Yes,3,33.1
+302,2:Female,4:No Labor,27,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,4,44.7
+303,1:Male,"2:Spontaneous, augmented",18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,34.1
+304,2:Female,1:Spontaneous,28,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,2,28.8
+305,1:Male,1:Spontaneous,31,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,6,21
+306,2:Female,4:No Labor,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,29.3
+307,2:Female,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,2:White,1:Yes,1,49.7
+308,2:Female,1:Spontaneous,21,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,1,20.1
+309,1:Male,1:Spontaneous,19,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,26.6
+310,1:Male,"2:Spontaneous, augmented",18,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,26.8
+311,2:Female,"2:Spontaneous, augmented",29,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,6,40.8
+312,2:Female,"2:Spontaneous, augmented",25,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,6,20.5
+313,2:Female,"2:Spontaneous, augmented",32,"3:$10,000-$14,999",3:Technical School,1:Black/African American,.:Missing,8,28.8
+314,2:Female,3:Induced,23,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,2,18.1
+315,2:Female,"2:Spontaneous, augmented",33,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,7,33.9
+316,2:Female,3:Induced,18,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,25.4
+317,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,22.6
+318,2:Female,"2:Spontaneous, augmented",28,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,2,39.5
+319,1:Male,1:Spontaneous,33,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,4,24.2
+320,1:Male,"2:Spontaneous, augmented",23,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,2,34
+321,2:Female,4:No Labor,18,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,33.5
+322,2:Female,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,19.1
+323,2:Female,"2:Spontaneous, augmented",24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,25.7
+324,1:Male,"2:Spontaneous, augmented",26,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,6,22.3
+325,2:Female,"2:Spontaneous, augmented",25,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,28.8
+326,1:Male,4:No Labor,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,30.2
+327,2:Female,"2:Spontaneous, augmented",35,"7:$35,000-$44,999",5:Grad/Professional Degree,2:White,0:No,3,33.9
+328,1:Male,4:No Labor,19,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,26.6
+329,2:Female,"2:Spontaneous, augmented",28,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,3,26.7
+330,2:Female,4:No Labor,22,"3:$10,000-$14,999",2:High School/GED,2:White,0:No,2,50.8
+331,2:Female,1:Spontaneous,18,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,29.4
+332,2:Female,1:Spontaneous,22,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,3,21
+333,1:Male,3:Induced,21,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,38.8
+334,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,5,20.9
+335,2:Female,1:Spontaneous,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,20.8
+336,2:Female,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,40.5
+337,2:Female,1:Spontaneous,20,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,32.5
+338,1:Male,3:Induced,39,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,32.6
+339,1:Male,3:Induced,31,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,6,62.1
+340,1:Male,1:Spontaneous,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,20.1
+341,2:Female,"2:Spontaneous, augmented",22,"8:$45,000-$54,999",1:< High School,1:Black/African American,0:No,2,19.6
+342,1:Male,1:Spontaneous,17,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,1,17.4
+343,1:Male,1:Spontaneous,21,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,2,21.4
+344,1:Male,4:No Labor,22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,5,31.3
+5001,2:Female,1:Spontaneous,29,"9:$55,000-$64,999",5:Grad/Professional Degree,3:Asian,0:No,2,22.3
+5002,1:Male,3:Induced,29,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,1,39.4
+5003,2:Female,3:Induced,35,"11:$75,000 or over",5:Grad/Professional Degree,6:Other,0:No,4,32.6
+5004,1:Male,3:Induced,23,"7:$35,000-$44,999",3:Technical School,2:White,0:No,1,32.3
+5005,.:Missing,.:Missing,32,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,29.1
+5006,1:Male,4:No Labor,35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,4,19.5
+5007,1:Male,3:Induced,33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,19.8
+5008,2:Female,"2:Spontaneous, augmented",28,.U:Unknown,4:College Degree,2:White,0:No,1,20.5
+5009,1:Male,1:Spontaneous,37,"7:$35,000-$44,999",5:Grad/Professional Degree,3:Asian,0:No,4,24.3
+5010,1:Male,4:No Labor,24,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,38.9
+5011,1:Male,4:No Labor,30,"8:$45,000-$54,999",4:College Degree,2:White,0:No,3,21.5
+5012,2:Female,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,1,27.6
+5013,1:Male,"2:Spontaneous, augmented",31,"11:$75,000 or over",4:College Degree,2:White,0:No,1,20.4
+5014,1:Male,"2:Spontaneous, augmented",28,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,1,22.9
+5015,2:Female,4:No Labor,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,23
+5016,1:Male,"2:Spontaneous, augmented",25,"6:$25,000-$34,999",4:College Degree,2:White,0:No,1,22.8
+5017,1:Male,"2:Spontaneous, augmented",26,"11:$75,000 or over",4:College Degree,2:White,0:No,2,24
+5018,2:Female,4:No Labor,22,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,39.4
+5019,1:Male,"2:Spontaneous, augmented",25,"11:$75,000 or over",4:College Degree,2:White,1:Yes,2,23.4
+5020,1:Male,3:Induced,28,"11:$75,000 or over",4:College Degree,2:White,0:No,3,30
+5021,2:Female,3:Induced,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,21.9
+5022,1:Male,3:Induced,31,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,30.1
+5023,2:Female,3:Induced,25,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,1,30
+5024,2:Female,"2:Spontaneous, augmented",24,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,1,21
+5025,2:Female,4:No Labor,26,"11:$75,000 or over",4:College Degree,2:White,0:No,1,17.9
+5026,1:Male,"2:Spontaneous, augmented",31,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,3,23.2
+5027,2:Female,3:Induced,38,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,4,29.6
+5028,1:Male,1:Spontaneous,36,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,22.7
+5029,1:Male,3:Induced,32,"11:$75,000 or over",4:College Degree,2:White,0:No,2,24.4
+5030,1:Male,"2:Spontaneous, augmented",31,"11:$75,000 or over",4:College Degree,2:White,0:No,1,23.6
+5031,2:Female,3:Induced,19,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,20.2
+5032,1:Male,1:Spontaneous,27,.U:Unknown,2:High School/GED,1:Black/African American,0:No,6,32.3
+5033,2:Female,3:Induced,33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,25.9
+5034,1:Male,3:Induced,27,"9:$55,000-$64,999",4:College Degree,2:White,1:Yes,3,28.4
+5035,1:Male,3:Induced,39,"11:$75,000 or over",4:College Degree,2:White,0:No,6,27.6
+5036,2:Female,"2:Spontaneous, augmented",27,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,2,30.8
+5037,2:Female,"2:Spontaneous, augmented",35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,21.8
+5038,2:Female,3:Induced,24,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,1,26.7
+5039,2:Female,"2:Spontaneous, augmented",20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,16.1
+5040,1:Male,3:Induced,39,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,1:Yes,5,29.6
+5041,1:Male,3:Induced,26,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,22.5
+5042,1:Male,3:Induced,29,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,33.3
+5043,2:Female,"2:Spontaneous, augmented",25,"5:$20,000-$24,999",2:High School/GED,2:White,1:Yes,3,23.8
+5044,1:Male,3:Induced,27,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,1:Yes,2,27.9
+5045,1:Male,4:No Labor,37,"11:$75,000 or over",4:College Degree,2:White,0:No,1,29.5
+5046,2:Female,"2:Spontaneous, augmented",27,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,17
+5047,2:Female,3:Induced,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,23.5
+5048,2:Female,"2:Spontaneous, augmented",26,"7:$35,000-$44,999",2:High School/GED,2:White,1:Yes,3,17.7
+5049,1:Male,"2:Spontaneous, augmented",30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,24.9
+5050,1:Male,1:Spontaneous,26,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,36.9
+5051,2:Female,4:No Labor,32,"7:$35,000-$44,999",3:Technical School,2:White,0:No,5,28.2
+5052,2:Female,3:Induced,22,"9:$55,000-$64,999",4:College Degree,2:White,0:No,3,23.9
+5053,1:Male,1:Spontaneous,32,"7:$35,000-$44,999",4:College Degree,3:Asian,0:No,2,24.1
+5054,1:Male,4:No Labor,39,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,5,39.2
+5055,.:Missing,.:Missing,21,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,39.2
+5056,1:Male,3:Induced,17,"8:$45,000-$54,999",1:< High School,2:White,0:No,1,27.5
+5057,2:Female,"2:Spontaneous, augmented",33,"11:$75,000 or over",4:College Degree,2:White,0:No,3,20.7
+5058,2:Female,1:Spontaneous,29,"11:$75,000 or over",4:College Degree,2:White,0:No,2,37.1
+5059,1:Male,3:Induced,27,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,3,37.7
+5060,1:Male,4:No Labor,19,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,1,34.3
+5061,1:Male,"2:Spontaneous, augmented",34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,25.6
+5062,2:Female,3:Induced,23,"11:$75,000 or over",4:College Degree,2:White,0:No,2,22.2
+5063,1:Male,4:No Labor,31,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,3,24.1
+5064,1:Male,"2:Spontaneous, augmented",31,"2:$5,000-$9,999",2:High School/GED,2:White,0:No,6,31.2
+5065,2:Female,1:Spontaneous,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,4,25.6
+5066,1:Male,4:No Labor,24,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,4,32.5
+5067,1:Male,3:Induced,26,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,17.2
+5068,1:Male,3:Induced,23,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,27.2
+5069,2:Female,3:Induced,30,"6:$25,000-$34,999",4:College Degree,2:White,0:No,2,22.7
+5070,1:Male,4:No Labor,34,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,21
+5071,.:Missing,.:Missing,28,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,3,43.9
+5072,2:Female,3:Induced,26,"5:$20,000-$24,999",3:Technical School,2:White,0:No,2,31.5
+5073,2:Female,3:Induced,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,22.1
+5074,2:Female,"2:Spontaneous, augmented",22,"6:$25,000-$34,999",4:College Degree,2:White,0:No,1,33.9
+5075,2:Female,"2:Spontaneous, augmented",27,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,20.9
+5076,2:Female,3:Induced,34,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,22
+5077,1:Male,3:Induced,23,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,24.9
+5078,.:Missing,.:Missing,18,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,24.8
+5079,2:Female,"2:Spontaneous, augmented",35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,23.6
+5080,1:Male,1:Spontaneous,31,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,2,24.8
+5081,1:Male,4:No Labor,33,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,4,38.7
+5082,1:Male,1:Spontaneous,22,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,2,32.2
+5083,2:Female,"2:Spontaneous, augmented",29,"9:$55,000-$64,999",4:College Degree,2:White,0:No,2,17.6
+5084,2:Female,1:Spontaneous,31,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,4,32.7
+5085,1:Male,3:Induced,24,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,23.5
+5086,2:Female,"2:Spontaneous, augmented",26,"7:$35,000-$44,999",4:College Degree,2:White,1:Yes,1,18.7
+5087,2:Female,3:Induced,31,"11:$75,000 or over",3:Technical School,1:Black/African American,0:No,5,25.7
+5088,2:Female,1:Spontaneous,29,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,20.7
+5089,2:Female,4:No Labor,35,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,37.7
+5090,2:Female,4:No Labor,23,.U:Unknown,2:High School/GED,2:White,0:No,1,30.2
+5091,2:Female,1:Spontaneous,19,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,27.3
+5092,2:Female,3:Induced,27,"11:$75,000 or over",4:College Degree,2:White,0:No,1,25.1
+5093,2:Female,3:Induced,24,"7:$35,000-$44,999",4:College Degree,2:White,0:No,1,21
+5094,2:Female,3:Induced,23,"11:$75,000 or over",4:College Degree,2:White,0:No,1,19.8
+5095,2:Female,4:No Labor,40,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,4,27.5
+5096,2:Female,"2:Spontaneous, augmented",22,"6:$25,000-$34,999",4:College Degree,2:White,0:No,1,22.6
+5097,2:Female,"2:Spontaneous, augmented",33,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,4,25.1
+5098,2:Female,1:Spontaneous,36,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,2,23.9
+5099,2:Female,3:Induced,28,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,3,21.6
+5100,2:Female,4:No Labor,33,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,6,22.9
+5101,2:Female,3:Induced,26,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,28.7
+5102,1:Male,3:Induced,29,"11:$75,000 or over",3:Technical School,2:White,0:No,1,25.1
+5103,2:Female,"2:Spontaneous, augmented",28,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,2,41.4
+5104,1:Male,3:Induced,23,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,1,25.1
+5105,1:Male,4:No Labor,33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,4,19
+5106,1:Male,3:Induced,27,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,4,22.3
+5107,1:Male,3:Induced,36,"11:$75,000 or over",4:College Degree,2:White,0:No,3,35
+5108,2:Female,3:Induced,25,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,1,20.3
+5109,2:Female,"2:Spontaneous, augmented",35,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,4,23.7
+5110,1:Male,3:Induced,22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,20.8
+5111,2:Female,3:Induced,19,"11:$75,000 or over",2:High School/GED,2:White,1:Yes,2,23.5
+5112,2:Female,3:Induced,27,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,5,30.5
+5113,2:Female,4:No Labor,25,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,30.8
+5114,.:Missing,.:Missing,24,"11:$75,000 or over",4:College Degree,2:White,0:No,1,24.7
+5115,2:Female,3:Induced,23,"2:$5,000-$9,999",4:College Degree,1:Black/African American,0:No,1,26.5
+5116,1:Male,3:Induced,27,"11:$75,000 or over",4:College Degree,2:White,0:No,3,22.9
+5117,1:Male,"2:Spontaneous, augmented",30,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,1,22.3
+5118,2:Female,4:No Labor,32,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,2,24.6
+5119,1:Male,3:Induced,30,"6:$25,000-$34,999",4:College Degree,2:White,1:Yes,3,28.5
+5120,2:Female,4:No Labor,32,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,3,22.2
+5121,2:Female,3:Induced,27,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,21.6
+5122,2:Female,3:Induced,36,"11:$75,000 or over",4:College Degree,2:White,0:No,5,25.2
+5123,2:Female,1:Spontaneous,26,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,1:Yes,4,21.1
+5124,2:Female,3:Induced,21,.U:Unknown,3:Technical School,1:Black/African American,0:No,2,30.5
+5125,2:Female,4:No Labor,33,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,4,44.6
+5126,1:Male,3:Induced,22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,32.9
+5127,1:Male,3:Induced,31,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,6,25.6
+5128,2:Female,3:Induced,29,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,1,32.1
+5129,2:Female,"2:Spontaneous, augmented",24,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,18.6
+5130,1:Male,3:Induced,26,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,26.1
+5131,1:Male,4:No Labor,22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,29.1
+5132,1:Male,"2:Spontaneous, augmented",36,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,23.1
+5133,1:Male,3:Induced,25,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,2,33.1
+5134,1:Male,"2:Spontaneous, augmented",31,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,23.3
+5135,2:Female,1:Spontaneous,31,"11:$75,000 or over",4:College Degree,2:White,0:No,2,19.6
+5136,2:Female,"2:Spontaneous, augmented",29,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,18.5
+5137,1:Male,1:Spontaneous,26,"7:$35,000-$44,999",4:College Degree,2:White,0:No,1,21
+5138,1:Male,3:Induced,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,22.8
+5139,2:Female,"2:Spontaneous, augmented",27,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,2,30.2
+5140,2:Female,3:Induced,32,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,30.5
+5141,2:Female,1:Spontaneous,24,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,3,28
+5142,2:Female,4:No Labor,25,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,2,23.5
+5143,2:Female,3:Induced,17,"8:$45,000-$54,999",1:< High School,2:White,0:No,1,35
+5144,1:Male,"2:Spontaneous, augmented",30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.6
+5145,.:Missing,.:Missing,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,19.9
+5146,1:Male,3:Induced,29,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,3,26
+5147,1:Male,1:Spontaneous,35,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,3,20.1
+5148,1:Male,4:No Labor,33,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,6,34.8
+5149,1:Male,"2:Spontaneous, augmented",21,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,24.4
+5150,1:Male,3:Induced,28,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,33
+5151,1:Male,1:Spontaneous,21,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,27.5
+5152,1:Male,"2:Spontaneous, augmented",30,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,15.4
+5153,1:Male,"2:Spontaneous, augmented",27,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,22.3
+5154,1:Male,4:No Labor,25,"4:$15,000-$19,999",4:College Degree,1:Black/African American,0:No,2,22
+5155,2:Female,3:Induced,30,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,3,22.3
+5156,1:Male,3:Induced,26,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,26.5
+5157,2:Female,"2:Spontaneous, augmented",30,"8:$45,000-$54,999",5:Grad/Professional Degree,1:Black/African American,0:No,3,27.2
+5158,1:Male,3:Induced,18,"9:$55,000-$64,999",1:< High School,2:White,0:No,1,16.9
+5159,1:Male,3:Induced,34,"8:$45,000-$54,999",4:College Degree,2:White,0:No,3,18.1
+5160,1:Male,"2:Spontaneous, augmented",29,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,5,23.1
+5161,1:Male,1:Spontaneous,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.2
+5162,1:Male,"2:Spontaneous, augmented",33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,20.4
+5163,2:Female,4:No Labor,25,"1:$0-$4,999",2:High School/GED,2:White,0:No,3,41
+5164,2:Female,"2:Spontaneous, augmented",19,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,30.2
+5165,1:Male,3:Induced,18,"7:$35,000-$44,999",1:< High School,2:White,1:Yes,1,23.9
+5166,1:Male,"2:Spontaneous, augmented",20,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,30.2
+5167,2:Female,"2:Spontaneous, augmented",25,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,4,33.5
+5168,1:Male,1:Spontaneous,29,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,32.1
+5169,1:Male,1:Spontaneous,36,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,7,22.9
+5170,1:Male,"2:Spontaneous, augmented",32,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,2,22.5
+5171,2:Female,3:Induced,31,"8:$45,000-$54,999",4:College Degree,2:White,0:No,3,29.6
+5172,1:Male,1:Spontaneous,27,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,3,23
+5173,2:Female,4:No Labor,28,"7:$35,000-$44,999",5:Grad/Professional Degree,2:White,0:No,1,27.2
+5174,2:Female,4:No Labor,25,"9:$55,000-$64,999",4:College Degree,2:White,0:No,1,33.7
+5175,2:Female,"2:Spontaneous, augmented",22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,20.6
+5176,2:Female,"2:Spontaneous, augmented",31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,22.7
+5177,2:Female,3:Induced,27,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,4,26.6
+5178,1:Male,3:Induced,37,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,4,26.3
+5179,1:Male,3:Induced,31,"4:$15,000-$19,999",2:High School/GED,6:Other,0:No,5,38.1
+5180,2:Female,3:Induced,39,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,2,36.5
+5181,2:Female,1:Spontaneous,20,"2:$5,000-$9,999",3:Technical School,2:White,0:No,1,23.9
+5182,.:Missing,.:Missing,27,"7:$35,000-$44,999",2:High School/GED,2:White,1:Yes,5,32.3
+5183,2:Female,3:Induced,30,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,32.9
+5184,1:Male,3:Induced,26,"4:$15,000-$19,999",2:High School/GED,4:American Indian/Alaska Native,1:Yes,7,33.5
+5185,2:Female,"2:Spontaneous, augmented",23,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,1,39.7
+5186,1:Male,3:Induced,27,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,3,33.7
+5187,1:Male,"2:Spontaneous, augmented",31,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,25.6
+5188,2:Female,"2:Spontaneous, augmented",33,"11:$75,000 or over",4:College Degree,2:White,0:No,2,21.3
+5189,2:Female,3:Induced,24,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,24.9
+5190,1:Male,3:Induced,23,"9:$55,000-$64,999",4:College Degree,2:White,0:No,1,25.5
+5191,1:Male,"2:Spontaneous, augmented",29,"11:$75,000 or over",4:College Degree,2:White,0:No,2,19.8
+5192,2:Female,4:No Labor,26,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,5,26.6
+5193,1:Male,"2:Spontaneous, augmented",20,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,1,23.2
+5194,1:Male,3:Induced,37,"11:$75,000 or over",2:High School/GED,2:White,0:No,6,22
+5195,1:Male,1:Spontaneous,28,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,3,23.3
+5196,1:Male,"2:Spontaneous, augmented",24,"7:$35,000-$44,999",3:Technical School,2:White,0:No,2,29.9
+5197,2:Female,"2:Spontaneous, augmented",21,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,25
+5198,2:Female,4:No Labor,26,"8:$45,000-$54,999",2:High School/GED,2:White,1:Yes,3,18.9
+5199,2:Female,3:Induced,31,"3:$10,000-$14,999",2:High School/GED,2:White,0:No,1,37
+5200,2:Female,3:Induced,29,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,6,36.9
+5201,1:Male,3:Induced,31,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,24.5
+5202,2:Female,1:Spontaneous,25,"6:$25,000-$34,999",4:College Degree,2:White,0:No,1,33.4
+5203,2:Female,4:No Labor,25,"11:$75,000 or over",2:High School/GED,2:White,0:No,5,24.5
+5204,2:Female,"2:Spontaneous, augmented",28,"8:$45,000-$54,999",5:Grad/Professional Degree,2:White,0:No,2,24.6
+5205,2:Female,"2:Spontaneous, augmented",19,"11:$75,000 or over",2:High School/GED,2:White,1:Yes,1,26
+5206,2:Female,3:Induced,30,"3:$10,000-$14,999",3:Technical School,1:Black/African American,1:Yes,11,47.3
+5207,1:Male,3:Induced,37,"11:$75,000 or over",4:College Degree,2:White,0:No,4,20.2
+5208,2:Female,1:Spontaneous,28,"10:$65,000-$74,999",5:Grad/Professional Degree,1:Black/African American,0:No,1,25.7
+5209,1:Male,3:Induced,30,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,6,29.1
+5210,2:Female,1:Spontaneous,30,"6:$25,000-$34,999",3:Technical School,6:Other,0:No,2,36.4
+5211,1:Male,"2:Spontaneous, augmented",35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,27.5
+5212,1:Male,4:No Labor,30,"7:$35,000-$44,999",3:Technical School,2:White,0:No,3,33.7
+5213,1:Male,"2:Spontaneous, augmented",30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,22.2
+5214,1:Male,4:No Labor,24,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,18.3
+5215,1:Male,3:Induced,24,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,31.5
+5216,1:Male,"2:Spontaneous, augmented",32,"8:$45,000-$54,999",3:Technical School,2:White,0:No,4,32.5
+5217,1:Male,1:Spontaneous,21,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,3,25.1
+5218,1:Male,3:Induced,28,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,2,26.6
+5219,2:Female,4:No Labor,22,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,2,18.9
+5220,1:Male,3:Induced,25,"7:$35,000-$44,999",2:High School/GED,2:White,1:Yes,1,25.7
+5221,2:Female,"2:Spontaneous, augmented",20,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,19.8
+5222,1:Male,1:Spontaneous,38,"6:$25,000-$34,999",5:Grad/Professional Degree,1:Black/African American,0:No,7,18.5
+5223,1:Male,3:Induced,26,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,22.4
+5224,1:Male,4:No Labor,32,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,6,33.8
+5225,2:Female,3:Induced,25,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,24
+5226,2:Female,4:No Labor,33,"11:$75,000 or over",4:College Degree,2:White,0:No,4,25.8
+5227,1:Male,3:Induced,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,25.8
+5228,2:Female,3:Induced,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,24.9
+5229,1:Male,3:Induced,30,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,22.7
+5230,1:Male,1:Spontaneous,29,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,4,32.6
+5231,1:Male,4:No Labor,30,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,21
+5232,2:Female,"2:Spontaneous, augmented",24,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,4,23.8
+5233,1:Male,3:Induced,26,"11:$75,000 or over",3:Technical School,2:White,0:No,2,19.9
+5234,2:Female,"2:Spontaneous, augmented",32,"6:$25,000-$34,999",4:College Degree,2:White,0:No,2,25.3
+5235,2:Female,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,22
+5236,1:Male,1:Spontaneous,26,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,3,34.7
+5237,2:Female,"2:Spontaneous, augmented",32,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,5,31.8
+5238,1:Male,3:Induced,27,"11:$75,000 or over",5:Grad/Professional Degree,2:White,1:Yes,1,23.6
+5239,1:Male,"2:Spontaneous, augmented",28,"11:$75,000 or over",4:College Degree,2:White,0:No,1,21.9
+5240,2:Female,4:No Labor,29,"3:$10,000-$14,999",4:College Degree,1:Black/African American,0:No,2,47.8
+5241,2:Female,1:Spontaneous,23,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,33.7
+5242,.:Missing,.:Missing,27,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,4,24.7
+5243,2:Female,4:No Labor,34,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,30.4
+5244,2:Female,3:Induced,20,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,25.3
+5245,1:Male,"2:Spontaneous, augmented",21,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,2,22.2
+5246,2:Female,3:Induced,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,25.3
+5247,1:Male,1:Spontaneous,24,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,2,26.7
+5248,1:Male,"2:Spontaneous, augmented",36,"3:$10,000-$14,999",4:College Degree,2:White,0:No,2,30.8
+5249,1:Male,"2:Spontaneous, augmented",17,.U:Unknown,1:< High School,1:Black/African American,0:No,1,22.8
+5250,1:Male,3:Induced,26,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,30.8
+5251,2:Female,1:Spontaneous,28,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,23.7
+5252,1:Male,3:Induced,35,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,2,31.8
+5253,2:Female,1:Spontaneous,38,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,4,33.6
+5254,2:Female,3:Induced,18,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,1,31.8
+5255,2:Female,3:Induced,19,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,21.8
+5256,1:Male,3:Induced,31,"8:$45,000-$54,999",5:Grad/Professional Degree,2:White,0:No,1,25.4
+5257,2:Female,"2:Spontaneous, augmented",30,"11:$75,000 or over",4:College Degree,2:White,0:No,1,24.4
+5258,2:Female,3:Induced,27,"8:$45,000-$54,999",3:Technical School,2:White,0:No,3,22.3
+5259,1:Male,3:Induced,27,"10:$65,000-$74,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,30.8
+5260,2:Female,3:Induced,30,"3:$10,000-$14,999",3:Technical School,2:White,0:No,1,25.8
+5261,2:Female,4:No Labor,34,"11:$75,000 or over",4:College Degree,2:White,0:No,5,23.1
+5262,1:Male,"2:Spontaneous, augmented",24,"4:$15,000-$19,999",1:< High School,1:Black/African American,1:Yes,5,17.8
+5263,1:Male,"2:Spontaneous, augmented",31,"10:$65,000-$74,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,33
+5264,2:Female,4:No Labor,31,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,20.6
+5265,1:Male,"2:Spontaneous, augmented",24,"11:$75,000 or over",4:College Degree,2:White,0:No,1,23.1
+5266,1:Male,"2:Spontaneous, augmented",19,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,22.5
+5267,2:Female,"2:Spontaneous, augmented",27,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,4,31.8
+5268,1:Male,"2:Spontaneous, augmented",21,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,35.6
+5269,2:Female,"2:Spontaneous, augmented",21,"10:$65,000-$74,999",3:Technical School,2:White,0:No,1,25.2
+5270,2:Female,"2:Spontaneous, augmented",21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,23.5
+5271,2:Female,3:Induced,26,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,2,25.1
+5272,1:Male,"2:Spontaneous, augmented",28,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,2,21.2
+5273,1:Male,3:Induced,21,"3:$10,000-$14,999",4:College Degree,1:Black/African American,0:No,1,20.6
+5274,2:Female,3:Induced,38,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,8,39.2
+5275,1:Male,4:No Labor,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,35.6
+5276,2:Female,3:Induced,18,.U:Unknown,1:< High School,1:Black/African American,0:No,1,26.8
+5277,2:Female,3:Induced,27,"10:$65,000-$74,999",4:College Degree,2:White,0:No,4,25.6
+5278,1:Male,1:Spontaneous,23,"6:$25,000-$34,999",4:College Degree,2:White,0:No,2,23.1
+5279,1:Male,1:Spontaneous,18,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,18.5
+5280,1:Male,3:Induced,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,22
+5281,1:Male,"2:Spontaneous, augmented",33,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,26.4
+5282,2:Female,"2:Spontaneous, augmented",32,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,23.9
+5283,1:Male,4:No Labor,26,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,4,25.1
+5284,1:Male,1:Spontaneous,29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,22
+5285,2:Female,3:Induced,36,"11:$75,000 or over",2:High School/GED,2:White,0:No,4,38.6
+5286,1:Male,4:No Labor,29,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,2,38.6
+5287,1:Male,4:No Labor,20,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,21.4
+5288,2:Female,1:Spontaneous,27,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,20.4
+5289,2:Female,3:Induced,28,"8:$45,000-$54,999",4:College Degree,2:White,1:Yes,3,28.4
+5290,1:Male,3:Induced,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,1:Yes,1,21.8
+5291,2:Female,3:Induced,24,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,20.8
+5292,1:Male,3:Induced,18,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,1,24.2
+5293,2:Female,4:No Labor,29,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,30.5
+5294,2:Female,4:No Labor,28,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.5
+5295,2:Female,"2:Spontaneous, augmented",24,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,1,24.2
+5296,2:Female,3:Induced,28,"9:$55,000-$64,999",4:College Degree,2:White,0:No,1,21.4
+5297,2:Female,1:Spontaneous,26,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,3,36.6
+5298,2:Female,4:No Labor,26,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,3,33.8
+5299,2:Female,1:Spontaneous,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,20.1
+5300,2:Female,"2:Spontaneous, augmented",24,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,38.5
+5301,2:Female,4:No Labor,31,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,3,34.4
+5302,1:Male,"2:Spontaneous, augmented",23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,30.6
+5303,2:Female,1:Spontaneous,22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,19.6
+5304,1:Male,1:Spontaneous,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,20.3
+5305,2:Female,"2:Spontaneous, augmented",19,.U:Unknown,1:< High School,1:Black/African American,0:No,1,24.5
+5306,2:Female,4:No Labor,40,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,4,29.7
+5307,2:Female,"2:Spontaneous, augmented",22,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,3,18.2
+5308,2:Female,1:Spontaneous,33,"1:$0-$4,999",2:High School/GED,2:White,0:No,6,25.1
+5309,1:Male,4:No Labor,23,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,36
+5310,1:Male,3:Induced,26,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,30.5
+5311,1:Male,4:No Labor,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,17.5
+5312,1:Male,"2:Spontaneous, augmented",19,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,21.2
+5313,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,21.6
+5314,.:Missing,.:Missing,21,"5:$20,000-$24,999",3:Technical School,1:Black/African American,1:Yes,3,20.6
+5315,1:Male,1:Spontaneous,31,"8:$45,000-$54,999",4:College Degree,2:White,0:No,1,30.2
+5316,2:Female,4:No Labor,27,"11:$75,000 or over",2:High School/GED,2:White,0:No,2,27.4
+5317,1:Male,3:Induced,27,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,23.1
+5318,2:Female,3:Induced,22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,29.9
+5319,1:Male,1:Spontaneous,28,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,6,29
+5320,1:Male,4:No Labor,30,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,0:No,2,32.3
+5321,1:Male,3:Induced,27,"7:$35,000-$44,999",2:High School/GED,2:White,1:Yes,4,41.9
+5322,1:Male,1:Spontaneous,23,"1:$0-$4,999",2:High School/GED,2:White,1:Yes,2,22.4
+5323,2:Female,3:Induced,30,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,23.1
+5324,2:Female,1:Spontaneous,25,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,27.9
+5325,1:Male,1:Spontaneous,31,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,3,31.1
+5326,2:Female,"2:Spontaneous, augmented",19,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,2,21.3
+5327,2:Female,"2:Spontaneous, augmented",33,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,37.6
+5328,2:Female,"2:Spontaneous, augmented",28,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,5,25.8
+5329,2:Female,"2:Spontaneous, augmented",30,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,1:Yes,1,27.4
+5330,1:Male,3:Induced,23,"8:$45,000-$54,999",4:College Degree,2:White,1:Yes,3,39.7
+5331,1:Male,3:Induced,27,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,4,26.7
+5332,1:Male,3:Induced,26,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,1,35.9
+5333,2:Female,"2:Spontaneous, augmented",18,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,28.4
+5334,1:Male,3:Induced,19,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,23.2
+5335,1:Male,1:Spontaneous,27,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,25.3
+5336,2:Female,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,29.3
+5337,2:Female,"2:Spontaneous, augmented",30,"7:$35,000-$44,999",5:Grad/Professional Degree,1:Black/African American,0:No,4,28.2
+5338,2:Female,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,23.6
+5339,2:Female,3:Induced,19,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,1,17.2
+5340,.:Missing,.:Missing,37,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,21.3
+5341,1:Male,"2:Spontaneous, augmented",18,"5:$20,000-$24,999",1:< High School,1:Black/African American,0:No,1,20.6
+5342,2:Female,1:Spontaneous,27,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,31.2
+5343,2:Female,3:Induced,18,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,20.9
+5344,2:Female,1:Spontaneous,38,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,21
+5345,2:Female,3:Induced,35,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,1,22.6
+5346,2:Female,"2:Spontaneous, augmented",28,"2:$5,000-$9,999",4:College Degree,1:Black/African American,0:No,1,34.8
+5347,2:Female,"2:Spontaneous, augmented",21,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,22.6
+5348,1:Male,"2:Spontaneous, augmented",28,"5:$20,000-$24,999",2:High School/GED,2:White,1:Yes,2,25.4
+5349,2:Female,4:No Labor,29,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,3,27.5
+5350,2:Female,4:No Labor,28,"11:$75,000 or over",4:College Degree,2:White,0:No,3,19.3
+5351,1:Male,"2:Spontaneous, augmented",18,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,31.5
+5352,2:Female,3:Induced,30,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,5,42.6
+5353,1:Male,4:No Labor,29,"10:$65,000-$74,999",4:College Degree,3:Asian,0:No,2,18.9
+5354,1:Male,1:Spontaneous,34,"11:$75,000 or over",5:Grad/Professional Degree,3:Asian,0:No,1,21.3
+5355,1:Male,"2:Spontaneous, augmented",40,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,1,29
+5356,1:Male,4:No Labor,27,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,5,28.4
+5357,2:Female,3:Induced,39,"11:$75,000 or over",4:College Degree,2:White,0:No,4,31.1
+5358,2:Female,1:Spontaneous,22,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,2,27.6
+5359,1:Male,4:No Labor,34,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,72.4
+5360,2:Female,3:Induced,19,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,1,26.6
+5361,2:Female,"2:Spontaneous, augmented",29,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,32
+5362,2:Female,"2:Spontaneous, augmented",29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,24.5
+5363,1:Male,4:No Labor,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,5,22.9
+5364,1:Male,"2:Spontaneous, augmented",29,"7:$35,000-$44,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,22.7
+5365,2:Female,"2:Spontaneous, augmented",17,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,6,25.8
+5366,2:Female,"2:Spontaneous, augmented",33,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,2,41.6
+5367,1:Male,1:Spontaneous,29,"9:$55,000-$64,999",4:College Degree,2:White,0:No,3,20.4
+5368,1:Male,1:Spontaneous,27,"11:$75,000 or over",4:College Degree,2:White,0:No,1,22.7
+5369,2:Female,3:Induced,20,"9:$55,000-$64,999",3:Technical School,1:Black/African American,0:No,1,27.5
+5370,2:Female,3:Induced,21,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,26.5
+5371,1:Male,4:No Labor,26,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,4,32.9
+5372,1:Male,4:No Labor,18,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,22.6
+5373,2:Female,3:Induced,28,"8:$45,000-$54,999",4:College Degree,2:White,0:No,1,31.9
+5374,1:Male,3:Induced,22,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,1,18.2
+5375,1:Male,4:No Labor,30,"11:$75,000 or over",4:College Degree,2:White,0:No,1,17.9
+5376,2:Female,3:Induced,34,"11:$75,000 or over",2:High School/GED,2:White,0:No,4,22.3
+5377,1:Male,"2:Spontaneous, augmented",20,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,3,29
+5378,1:Male,3:Induced,21,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,24.6
+5379,2:Female,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,30.6
+5380,2:Female,3:Induced,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.6
+5381,2:Female,"2:Spontaneous, augmented",33,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,28.4
+5382,1:Male,3:Induced,22,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,29.4
+5383,2:Female,1:Spontaneous,25,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,3,38.5
+5384,2:Female,3:Induced,29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.2
+5385,1:Male,1:Spontaneous,33,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,4,39.7
+5386,1:Male,3:Induced,28,"11:$75,000 or over",4:College Degree,2:White,0:No,2,37.3
+5387,2:Female,"2:Spontaneous, augmented",29,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,3,24.3
+5388,2:Female,"2:Spontaneous, augmented",38,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,6,32
+5389,2:Female,4:No Labor,34,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,3,28.5
+5390,1:Male,4:No Labor,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,24.9
+5391,2:Female,"2:Spontaneous, augmented",22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,5,24.5
+5392,1:Male,3:Induced,19,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,2,28.2
+5393,1:Male,3:Induced,36,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,1,26.4
+5394,1:Male,1:Spontaneous,27,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,2,26.2
+5395,1:Male,3:Induced,20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,19.6
+5396,1:Male,"2:Spontaneous, augmented",28,"10:$65,000-$74,999",3:Technical School,2:White,0:No,3,20
+5397,2:Female,4:No Labor,25,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,27.5
+5398,1:Male,3:Induced,39,"11:$75,000 or over",4:College Degree,2:White,0:No,6,32.7
+5399,2:Female,3:Induced,20,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,24.9
+5400,2:Female,"2:Spontaneous, augmented",28,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,15.5
+5401,1:Male,3:Induced,22,"10:$65,000-$74,999",3:Technical School,2:White,0:No,3,20.6
+5402,2:Female,3:Induced,29,"11:$75,000 or over",4:College Degree,2:White,0:No,2,26.7
+5403,1:Male,1:Spontaneous,18,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,21.9
+5404,1:Male,4:No Labor,35,"2:$5,000-$9,999",4:College Degree,1:Black/African American,0:No,5,31.6
+5405,1:Male,"2:Spontaneous, augmented",36,"11:$75,000 or over",2:High School/GED,2:White,0:No,2,23.9
+5406,2:Female,1:Spontaneous,24,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,1,33.2
+5407,1:Male,3:Induced,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,31.1
+5408,2:Female,4:No Labor,29,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,1,24.8
+5409,1:Male,3:Induced,30,"9:$55,000-$64,999",4:College Degree,2:White,0:No,3,21.6
+5410,1:Male,"2:Spontaneous, augmented",34,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,2,26.4
+5411,2:Female,3:Induced,32,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,22.7
+5412,1:Male,"2:Spontaneous, augmented",20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,18.9
+5413,2:Female,4:No Labor,32,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,5,21.9
+5414,1:Male,"2:Spontaneous, augmented",25,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,2,21
+5415,2:Female,"2:Spontaneous, augmented",33,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,4,25.1
+5416,1:Male,1:Spontaneous,25,"2:$5,000-$9,999",1:< High School,1:Black/African American,1:Yes,5,22.6
+5417,2:Female,4:No Labor,38,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,21.3
+5418,2:Female,"2:Spontaneous, augmented",29,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,1,44.5
+5419,1:Male,4:No Labor,30,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,6,33.3
+5420,1:Male,3:Induced,25,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,29.1
+5421,1:Male,1:Spontaneous,24,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,17
+5422,2:Female,1:Spontaneous,26,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,6,21.5
+5423,2:Female,"2:Spontaneous, augmented",31,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,4,42.1
+5424,.:Missing,.:Missing,38,"11:$75,000 or over",4:College Degree,2:White,1:Yes,3,22
+5425,2:Female,4:No Labor,33,.U:Unknown,4:College Degree,2:White,0:No,3,29.3
+5426,2:Female,"2:Spontaneous, augmented",26,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,30.5
+5427,1:Male,3:Induced,23,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,20.5
+5428,1:Male,3:Induced,24,"8:$45,000-$54,999",3:Technical School,2:White,0:No,1,28.8
+5429,1:Male,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,2,21.5
+5430,2:Female,"2:Spontaneous, augmented",27,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,2,31.5
+5431,1:Male,4:No Labor,19,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,2,31.5
+5432,1:Male,"2:Spontaneous, augmented",18,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,20.7
+5433,2:Female,3:Induced,26,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,4,40.9
+5434,1:Male,"2:Spontaneous, augmented",28,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,0:No,2,21.3
+5435,1:Male,"2:Spontaneous, augmented",34,"11:$75,000 or over",4:College Degree,2:White,0:No,3,22
+5436,2:Female,3:Induced,29,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,9,30.3
+5437,1:Male,4:No Labor,25,"10:$65,000-$74,999",3:Technical School,1:Black/African American,0:No,5,30.8
+5438,2:Female,1:Spontaneous,21,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,1:Yes,2,21.4
+5439,1:Male,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,2,29
+5440,1:Male,1:Spontaneous,39,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,23.4
+5441,1:Male,3:Induced,28,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,5,36.1
+5442,2:Female,3:Induced,24,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,3,32.5
+5443,2:Female,1:Spontaneous,36,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,4,23.8
+5444,1:Male,4:No Labor,33,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,3,39.1
+5445,1:Male,4:No Labor,31,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,1,30.2
+5446,1:Male,"2:Spontaneous, augmented",24,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,3,28.8
+5447,2:Female,3:Induced,27,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,26.4
+5448,2:Female,3:Induced,31,"9:$55,000-$64,999",4:College Degree,2:White,0:No,3,21.3
+5449,1:Male,4:No Labor,33,"10:$65,000-$74,999",4:College Degree,2:White,0:No,5,19
+5450,1:Male,1:Spontaneous,33,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,24.8
+5451,2:Female,3:Induced,26,"5:$20,000-$24,999",4:College Degree,2:White,0:No,1,23.2
+5452,2:Female,3:Induced,33,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,4,24.3
+5453,1:Male,3:Induced,24,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,36.1
+5454,1:Male,"2:Spontaneous, augmented",23,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,36.1
+5455,1:Male,"2:Spontaneous, augmented",31,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,4,26.7
+5456,2:Female,4:No Labor,18,"11:$75,000 or over",1:< High School,1:Black/African American,0:No,2,18.3
+5457,1:Male,3:Induced,29,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,4,25.1
+5458,1:Male,3:Induced,20,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,3,19.6
+5459,2:Female,3:Induced,23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,1:Yes,2,22.3
+5460,1:Male,3:Induced,18,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,1,22.2
+5461,2:Female,"2:Spontaneous, augmented",20,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,23.1
+5462,1:Male,3:Induced,23,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,4,33.2
+5463,2:Female,3:Induced,18,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,40.6
+5464,2:Female,4:No Labor,31,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,2,29.3
+5465,2:Female,3:Induced,30,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,37.1
+5466,1:Male,1:Spontaneous,25,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,4,34.1
+5467,2:Female,"2:Spontaneous, augmented",34,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,19
+5468,.:Missing,.:Missing,34,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,32
+5469,2:Female,1:Spontaneous,30,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,21.2
+5470,2:Female,"2:Spontaneous, augmented",23,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,2,23.1
+5471,1:Male,"2:Spontaneous, augmented",22,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,5,27.5
+5472,2:Female,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,37.6
+5473,2:Female,1:Spontaneous,35,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,6,40.8
+5474,1:Male,3:Induced,20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,26.7
+5475,2:Female,1:Spontaneous,25,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,28
+5476,1:Male,3:Induced,29,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,1,20.7
+5477,1:Male,3:Induced,19,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,35.7
+5478,2:Female,3:Induced,28,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,31.8
+5479,1:Male,1:Spontaneous,26,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,36.1
+5480,2:Female,"2:Spontaneous, augmented",20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,28.4
+5481,1:Male,3:Induced,21,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,24.9
+5482,2:Female,1:Spontaneous,26,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,6,25.3
+5483,2:Female,4:No Labor,29,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,36.2
+5484,1:Male,"2:Spontaneous, augmented",22,"11:$75,000 or over",3:Technical School,2:White,0:No,1,24.4
+5485,1:Male,4:No Labor,26,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,2,38.3
+5486,1:Male,"2:Spontaneous, augmented",18,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,21.3
+5487,1:Male,"2:Spontaneous, augmented",28,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,5,22.5
+5488,2:Female,3:Induced,26,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,24
+5489,2:Female,3:Induced,29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,18.6
+5490,2:Female,1:Spontaneous,29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,5,21
+5491,1:Male,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,3,21.5
+5492,2:Female,"2:Spontaneous, augmented",19,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,2,22.9
+5493,.:Missing,.:Missing,27,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,2,41.1
+5494,1:Male,"2:Spontaneous, augmented",28,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,36.2
+5495,1:Male,3:Induced,29,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,27.7
+5496,2:Female,3:Induced,25,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,48.9
+5497,1:Male,"2:Spontaneous, augmented",26,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,23.2
+5498,1:Male,"2:Spontaneous, augmented",18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,23.1
+5499,2:Female,4:No Labor,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,26.9
+5500,.:Missing,.:Missing,20,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,22.9
+5501,1:Male,3:Induced,36,"8:$45,000-$54,999",4:College Degree,2:White,0:No,1,16.9
+5502,1:Male,4:No Labor,28,"1:$0-$4,999",4:College Degree,1:Black/African American,1:Yes,2,18.6
+5503,1:Male,1:Spontaneous,28,"2:$5,000-$9,999",2:High School/GED,3:Asian,0:No,2,25.2
+5504,2:Female,3:Induced,36,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,24.7
+5505,1:Male,3:Induced,29,.:Missing,4:College Degree,2:White,0:No,4,25.1
+5506,2:Female,"2:Spontaneous, augmented",24,"4:$15,000-$19,999",2:High School/GED,2:White,1:Yes,1,20
+5507,2:Female,"2:Spontaneous, augmented",24,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,33.4
+5508,2:Female,1:Spontaneous,19,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,23.8
+5509,2:Female,"2:Spontaneous, augmented",27,"11:$75,000 or over",4:College Degree,2:White,0:No,1,21
+5510,1:Male,3:Induced,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,29.5
+5511,2:Female,"2:Spontaneous, augmented",20,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,48.4
+5512,1:Male,3:Induced,22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,42.1
+5513,2:Female,"2:Spontaneous, augmented",17,.U:Unknown,1:< High School,1:Black/African American,0:No,1,21.1
+5514,1:Male,3:Induced,33,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,6,23.7
+5515,2:Female,4:No Labor,25,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,2,36.6
+5516,1:Male,1:Spontaneous,31,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,4,41.4
+5517,2:Female,1:Spontaneous,25,"7:$35,000-$44,999",4:College Degree,2:White,0:No,3,19.5
+5518,2:Female,3:Induced,27,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,5,25.9
+5519,2:Female,1:Spontaneous,17,"8:$45,000-$54,999",1:< High School,1:Black/African American,0:No,1,19.1
+5521,2:Female,"2:Spontaneous, augmented",30,"10:$65,000-$74,999",3:Technical School,2:White,0:No,1,27
+5522,1:Male,4:No Labor,34,"5:$20,000-$24,999",4:College Degree,2:White,0:No,3,30.1
+5523,1:Male,1:Spontaneous,22,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,1,39.6
+5524,2:Female,1:Spontaneous,34,"9:$55,000-$64,999",5:Grad/Professional Degree,3:Asian,0:No,3,19
+5525,2:Female,4:No Labor,35,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,2,28.9
+5526,2:Female,3:Induced,24,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,42.2
+5527,2:Female,1:Spontaneous,35,"11:$75,000 or over",5:Grad/Professional Degree,3:Asian,0:No,2,20
+5528,2:Female,1:Spontaneous,27,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,3,27.5
+5529,2:Female,"2:Spontaneous, augmented",35,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,12,27.5
+5530,1:Male,"2:Spontaneous, augmented",21,"3:$10,000-$14,999",2:High School/GED,2:White,0:No,1,36.4
+5531,2:Female,"2:Spontaneous, augmented",27,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,5,35
+5532,2:Female,4:No Labor,30,"6:$25,000-$34,999",4:College Degree,2:White,0:No,3,24.1
+5533,1:Male,4:No Labor,36,"11:$75,000 or over",4:College Degree,2:White,0:No,3,30.6
+5534,1:Male,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,2,21.6
+5535,2:Female,"2:Spontaneous, augmented",30,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,5,20.4
+5536,1:Male,3:Induced,24,"6:$25,000-$34,999",4:College Degree,2:White,0:No,1,26.7
+5537,2:Female,"2:Spontaneous, augmented",23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,28.9
+5538,2:Female,1:Spontaneous,30,"8:$45,000-$54,999",3:Technical School,2:White,0:No,3,22.7
+5539,2:Female,1:Spontaneous,33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,27.9
+5540,1:Male,4:No Labor,24,"4:$15,000-$19,999",4:College Degree,1:Black/African American,0:No,2,32.1
+5541,1:Male,3:Induced,22,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,2,24.6
+5542,2:Female,3:Induced,24,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,3,23.4
+5543,1:Male,3:Induced,32,"3:$10,000-$14,999",1:< High School,2:White,1:Yes,4,38.2
+5544,1:Male,"2:Spontaneous, augmented",22,"11:$75,000 or over",3:Technical School,1:Black/African American,0:No,1,22.4
+5545,1:Male,1:Spontaneous,34,"9:$55,000-$64,999",4:College Degree,2:White,0:No,4,26.4
+5546,1:Male,3:Induced,25,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,24.7
+5547,2:Female,3:Induced,23,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,5,19.8
+5548,2:Female,4:No Labor,27,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,4,25.9
+5549,2:Female,3:Induced,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,2,48.4
+5550,2:Female,3:Induced,24,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,3,36.1
+5551,1:Male,3:Induced,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,25.7
+5552,1:Male,3:Induced,24,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,2,28
+5553,2:Female,3:Induced,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,27.4
+5554,2:Female,"2:Spontaneous, augmented",34,"10:$65,000-$74,999",5:Grad/Professional Degree,1:Black/African American,0:No,3,39.9
+5555,1:Male,3:Induced,32,"7:$35,000-$44,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,25.6
+5556,1:Male,3:Induced,33,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,9,30.2
+5557,2:Female,1:Spontaneous,29,"10:$65,000-$74,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,34.2
+5558,1:Male,4:No Labor,28,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,3,27.5
+5559,.:Missing,.:Missing,29,"7:$35,000-$44,999",2:High School/GED,5:Native Hawaiian/Oth Pac Islander,0:No,2,38.7
+5560,1:Male,1:Spontaneous,18,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,3,20.8
+5561,1:Male,3:Induced,31,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,29.3
+5562,1:Male,1:Spontaneous,31,"8:$45,000-$54,999",5:Grad/Professional Degree,1:Black/African American,0:No,1,37
+5563,2:Female,3:Induced,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,30.3
+5564,1:Male,3:Induced,27,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,30.8
+5565,1:Male,"2:Spontaneous, augmented",22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,28
+5566,2:Female,3:Induced,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,19.7
+5567,1:Male,"2:Spontaneous, augmented",35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,21
+5568,1:Male,4:No Labor,32,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,6,20.2
+5569,1:Male,1:Spontaneous,21,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,24.2
+5570,2:Female,3:Induced,29,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,1,35.2
+5571,1:Male,3:Induced,30,"7:$35,000-$44,999",5:Grad/Professional Degree,3:Asian,0:No,1,24.2
+5572,2:Female,"2:Spontaneous, augmented",38,"11:$75,000 or over",5:Grad/Professional Degree,3:Asian,0:No,3,21.3
+5573,2:Female,"2:Spontaneous, augmented",20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,27.5
+5574,2:Female,1:Spontaneous,28,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,46.3
+5575,1:Male,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,27.5
+5576,1:Male,4:No Labor,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,32.2
+5577,1:Male,"2:Spontaneous, augmented",32,"8:$45,000-$54,999",4:College Degree,2:White,0:No,4,36.2
+5578,1:Male,"2:Spontaneous, augmented",22,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,20.2
+5579,1:Male,.:Missing,32,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,1:Yes,11,26.7
+5580,2:Female,3:Induced,27,"8:$45,000-$54,999",5:Grad/Professional Degree,2:White,0:No,2,20
+5581,1:Male,3:Induced,25,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,30.3
+5582,1:Male,"2:Spontaneous, augmented",24,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,23.4
+5583,1:Male,1:Spontaneous,33,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,3,27.9
+5584,2:Female,3:Induced,31,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,21.6
+5585,2:Female,4:No Labor,31,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,5,32.7
+5586,1:Male,3:Induced,31,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,7,18
+5587,1:Male,1:Spontaneous,32,"11:$75,000 or over",4:College Degree,2:White,0:No,4,23.9
+5588,2:Female,3:Induced,33,.:Missing,5:Grad/Professional Degree,2:White,0:No,3,18.1
+5589,2:Female,3:Induced,29,"11:$75,000 or over",4:College Degree,2:White,0:No,1,27.3
+5590,2:Female,"2:Spontaneous, augmented",26,"7:$35,000-$44,999",4:College Degree,2:White,0:No,2,21.3
+5591,2:Female,4:No Labor,31,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,26.4
+5592,1:Male,4:No Labor,31,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,2,25.6
+5593,2:Female,3:Induced,26,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,5,32.7
+5594,2:Female,1:Spontaneous,30,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,3,38.5
+5595,1:Male,3:Induced,26,"8:$45,000-$54,999",3:Technical School,1:Black/African American,1:Yes,1,37.9
+5596,1:Male,4:No Labor,34,"11:$75,000 or over",2:High School/GED,2:White,0:No,2,31.1
+5597,2:Female,"2:Spontaneous, augmented",21,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,20.8
+5598,2:Female,"2:Spontaneous, augmented",20,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,4,44.1
+5599,1:Male,1:Spontaneous,19,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,22.2
+5600,1:Male,1:Spontaneous,24,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,25.7
+5601,2:Female,3:Induced,24,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,5,50.4
+5602,2:Female,"2:Spontaneous, augmented",24,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,4,17.4
+5603,1:Male,1:Spontaneous,28,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,29.1
+5604,1:Male,"2:Spontaneous, augmented",31,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,6,28.4
+5605,2:Female,1:Spontaneous,34,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,3,28.8
+5606,1:Male,4:No Labor,21,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,2,23.6
+5607,1:Male,1:Spontaneous,23,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,28.3
+5608,1:Male,1:Spontaneous,23,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,1,24.8
+5609,2:Female,3:Induced,18,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,28.3
+5610,2:Female,3:Induced,31,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,4,22.7
+5611,2:Female,3:Induced,24,"7:$35,000-$44,999",4:College Degree,2:White,0:No,2,21.1
+5612,1:Male,.:Missing,19,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,21.2
+5613,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,2,32.2
+5614,1:Male,4:No Labor,23,"1:$0-$4,999",3:Technical School,1:Black/African American,0:No,2,33.2
+5615,2:Female,3:Induced,32,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,2,42.7
+5616,2:Female,1:Spontaneous,27,"1:$0-$4,999",1:< High School,2:White,1:Yes,4,29.6
+5617,1:Male,3:Induced,21,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,1,30
+5618,2:Female,1:Spontaneous,33,"11:$75,000 or over",4:College Degree,2:White,0:No,2,21.4
+5619,1:Male,1:Spontaneous,30,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,3,22.9
+5620,2:Female,4:No Labor,24,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,32
+5621,2:Female,3:Induced,23,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,38.5
+5622,1:Male,1:Spontaneous,29,"11:$75,000 or over",4:College Degree,2:White,0:No,2,22.2
+5623,2:Female,4:No Labor,26,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,31.1
+5624,2:Female,"2:Spontaneous, augmented",23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,25.7
+5625,1:Male,4:No Labor,32,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,37.8
+5626,2:Female,3:Induced,30,"11:$75,000 or over",5:Grad/Professional Degree,3:Asian,0:No,1,19.6
+5627,2:Female,3:Induced,24,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,1,36.6
+5628,1:Male,3:Induced,28,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,20.5
+5629,2:Female,4:No Labor,21,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,29.6
+5630,1:Male,3:Induced,30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.4
+5631,1:Male,3:Induced,31,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,4,22
+5632,2:Female,"2:Spontaneous, augmented",27,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,3,18.9
+5633,1:Male,"2:Spontaneous, augmented",16,"8:$45,000-$54,999",1:< High School,1:Black/African American,0:No,2,24.8
+5634,.:Missing,.:Missing,20,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,36.9
+5635,1:Male,3:Induced,27,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,32.4
+5636,1:Male,3:Induced,28,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,2,27.8
+5637,2:Female,1:Spontaneous,24,"6:$25,000-$34,999",3:Technical School,5:Native Hawaiian/Oth Pac Islander,1:Yes,4,23.1
+5638,1:Male,3:Induced,24,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,1,14.2
+5639,2:Female,3:Induced,24,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,3,19.4
+5640,1:Male,"2:Spontaneous, augmented",28,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,2,26.1
+5641,2:Female,3:Induced,18,"8:$45,000-$54,999",1:< High School,1:Black/African American,0:No,1,21.3
+5642,2:Female,1:Spontaneous,20,"3:$10,000-$14,999",1:< High School,1:Black/African American,1:Yes,2,19.7
+5643,2:Female,"2:Spontaneous, augmented",26,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,21.9
+5644,2:Female,"2:Spontaneous, augmented",25,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,25.1
+5645,2:Female,1:Spontaneous,27,"1:$0-$4,999",2:High School/GED,6:Other,1:Yes,6,21.4
+5646,1:Male,"2:Spontaneous, augmented",24,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,1,23.1
+5647,1:Male,3:Induced,19,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,26.6
+5648,2:Female,1:Spontaneous,29,"6:$25,000-$34,999",4:College Degree,2:White,0:No,3,42
+5649,1:Male,"2:Spontaneous, augmented",20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,24.1
+5650,1:Male,3:Induced,22,"3:$10,000-$14,999",4:College Degree,2:White,0:No,1,21.9
+5651,1:Male,3:Induced,24,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,41.5
+5652,2:Female,1:Spontaneous,32,"11:$75,000 or over",2:High School/GED,2:White,0:No,4,15.1
+5653,2:Female,4:No Labor,22,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,2,23.5
+5654,2:Female,1:Spontaneous,29,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,0:No,2,21.4
+5655,2:Female,3:Induced,29,"9:$55,000-$64,999",4:College Degree,2:White,0:No,4,24.3
+5656,1:Male,3:Induced,22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,46.6
+5657,1:Male,3:Induced,22,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,2,36.9
+5658,2:Female,"2:Spontaneous, augmented",21,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,1,32.9
+5659,1:Male,4:No Labor,21,"4:$15,000-$19,999",2:High School/GED,2:White,0:No,2,36.6
+5660,1:Male,1:Spontaneous,16,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,1,21.9
+5661,1:Male,3:Induced,20,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,28.4
+5662,1:Male,4:No Labor,28,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,1,33.8
+5663,1:Male,"2:Spontaneous, augmented",22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,25.7
+5664,1:Male,"2:Spontaneous, augmented",31,"4:$15,000-$19,999",3:Technical School,1:Black/African American,1:Yes,5,33
+5665,2:Female,3:Induced,20,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,1,24.2
+5666,2:Female,3:Induced,30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,19.8
+5667,2:Female,4:No Labor,36,"11:$75,000 or over",4:College Degree,2:White,0:No,3,40.2
+5668,2:Female,4:No Labor,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,20.6
+5669,1:Male,3:Induced,23,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,46.7
+5670,2:Female,1:Spontaneous,22,"8:$45,000-$54,999",2:High School/GED,2:White,1:Yes,2,21.8
+5671,2:Female,1:Spontaneous,23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,23.5
+5672,1:Male,"2:Spontaneous, augmented",30,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,4,28.9
+5673,2:Female,3:Induced,31,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,26.7
+5674,2:Female,1:Spontaneous,29,"5:$20,000-$24,999",4:College Degree,1:Black/African American,0:No,3,39.7
+5675,1:Male,3:Induced,33,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,4,18.6
+5676,2:Female,4:No Labor,34,"9:$55,000-$64,999",4:College Degree,2:White,1:Yes,2,28.8
+5677,2:Female,3:Induced,35,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,3,33.6
+5678,1:Male,1:Spontaneous,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,18.8
+5679,2:Female,"2:Spontaneous, augmented",28,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,2,24.3
+5680,1:Male,1:Spontaneous,22,.U:Unknown,3:Technical School,1:Black/African American,0:No,2,21
+5681,1:Male,1:Spontaneous,18,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,22
+5682,1:Male,"2:Spontaneous, augmented",32,"11:$75,000 or over",4:College Degree,2:White,0:No,2,24.4
+5683,1:Male,4:No Labor,34,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,36.2
+5684,1:Male,3:Induced,26,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,2,41.2
+5685,2:Female,"2:Spontaneous, augmented",31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,20.2
+5686,1:Male,1:Spontaneous,28,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,38.4
+5687,1:Male,4:No Labor,36,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,3,26.6
+5688,2:Female,3:Induced,27,"7:$35,000-$44,999",4:College Degree,2:White,0:No,2,28
+5689,2:Female,"2:Spontaneous, augmented",32,"11:$75,000 or over",4:College Degree,2:White,0:No,3,26.4
+5690,2:Female,3:Induced,38,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,5,26
+5691,1:Male,1:Spontaneous,32,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,3,21.8
+5692,1:Male,"2:Spontaneous, augmented",25,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,1,21.4
+5693,1:Male,1:Spontaneous,19,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,1,40.8
+5694,1:Male,"2:Spontaneous, augmented",22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,46.9
+5695,2:Female,4:No Labor,34,"7:$35,000-$44,999",5:Grad/Professional Degree,2:White,0:No,3,22.6
+5696,2:Female,3:Induced,34,"8:$45,000-$54,999",5:Grad/Professional Degree,2:White,0:No,1,39.2
+5697,2:Female,3:Induced,30,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,4,23.5
+5698,1:Male,3:Induced,19,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,27.5
+5699,2:Female,1:Spontaneous,27,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,3,44.3
+5700,1:Male,"2:Spontaneous, augmented",20,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,25.2
+5701,.:Missing,.:Missing,23,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,1,29.2
+5702,2:Female,"2:Spontaneous, augmented",24,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,3,32.9
+5703,2:Female,4:No Labor,28,"9:$55,000-$64,999",4:College Degree,2:White,0:No,1,47.2
+5704,1:Male,3:Induced,25,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,21.2
+5705,1:Male,1:Spontaneous,26,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,18.6
+5706,2:Female,4:No Labor,21,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,1:Yes,3,25.3
+5707,1:Male,"2:Spontaneous, augmented",27,"11:$75,000 or over",4:College Degree,2:White,0:No,1,24.6
+5708,1:Male,3:Induced,23,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,44.4
+5709,2:Female,1:Spontaneous,23,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,1,33.2
+5710,2:Female,"2:Spontaneous, augmented",23,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,1,38.1
+5711,2:Female,3:Induced,26,"10:$65,000-$74,999",5:Grad/Professional Degree,1:Black/African American,0:No,1,24.3
+5712,1:Male,4:No Labor,34,"11:$75,000 or over",4:College Degree,2:White,0:No,5,21.7
+5713,1:Male,1:Spontaneous,33,"8:$45,000-$54,999",5:Grad/Professional Degree,2:White,0:No,2,20.4
+5714,2:Female,3:Induced,26,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,4,36.6
+5715,1:Male,"2:Spontaneous, augmented",29,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,3,29.3
+5716,1:Male,4:No Labor,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,24.2
+5717,2:Female,"2:Spontaneous, augmented",23,.U:Unknown,2:High School/GED,1:Black/African American,1:Yes,3,30.7
+5718,1:Male,4:No Labor,22,.U:Unknown,1:< High School,1:Black/African American,0:No,4,44.9
+5719,1:Male,4:No Labor,31,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,3,24.4
+5720,2:Female,1:Spontaneous,28,"7:$35,000-$44,999",4:College Degree,2:White,0:No,1,22
+5721,2:Female,3:Induced,37,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,42
+5722,1:Male,4:No Labor,33,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,4,31.5
+5723,2:Female,1:Spontaneous,29,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,56.2
+5724,1:Male,3:Induced,24,"6:$25,000-$34,999",4:College Degree,2:White,0:No,2,37.8
+5725,1:Male,3:Induced,19,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,17.9
+5726,1:Male,3:Induced,20,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,27.2
+5727,2:Female,4:No Labor,26,"5:$20,000-$24,999",3:Technical School,2:White,1:Yes,4,20.5
+5728,2:Female,"2:Spontaneous, augmented",29,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,6,29.5
+5729,1:Male,1:Spontaneous,34,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,19.8
+5730,1:Male,3:Induced,29,"7:$35,000-$44,999",5:Grad/Professional Degree,2:White,0:No,2,29.3
+5731,1:Male,4:No Labor,21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,26.7
+5732,1:Male,3:Induced,25,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,26
+5733,1:Male,"2:Spontaneous, augmented",27,"11:$75,000 or over",2:High School/GED,2:White,0:No,2,34.1
+5734,2:Female,3:Induced,34,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,35.9
+5735,2:Female,3:Induced,30,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,5,32
+5736,1:Male,1:Spontaneous,24,"2:$5,000-$9,999",1:< High School,1:Black/African American,1:Yes,11,39.1
+5737,2:Female,3:Induced,18,.U:Unknown,2:High School/GED,2:White,0:No,1,43.6
+5738,1:Male,1:Spontaneous,27,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,3,22.7
+5739,2:Female,"2:Spontaneous, augmented",27,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,1:Yes,3,24.2
+5740,1:Male,3:Induced,25,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,4,25.4
+5741,2:Female,3:Induced,38,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,1,25.8
+5742,1:Male,4:No Labor,38,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,32.2
+5743,1:Male,"2:Spontaneous, augmented",21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,34.2
+5744,2:Female,3:Induced,25,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,21.8
+5745,2:Female,4:No Labor,37,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,29
+5746,2:Female,"2:Spontaneous, augmented",23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,19.4
+5747,1:Male,3:Induced,27,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,3,39.8
+5748,1:Male,1:Spontaneous,21,.U:Unknown,4:College Degree,2:White,1:Yes,1,19.8
+5749,2:Female,3:Induced,38,"10:$65,000-$74,999",4:College Degree,2:White,1:Yes,1,25.9
+5750,1:Male,"2:Spontaneous, augmented",29,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,6,33
+5751,1:Male,1:Spontaneous,28,"7:$35,000-$44,999",5:Grad/Professional Degree,1:Black/African American,0:No,4,37
+5752,1:Male,3:Induced,32,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,0:No,2,18.9
+5753,2:Female,"2:Spontaneous, augmented",32,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,7,27.6
+5754,2:Female,1:Spontaneous,31,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,28.9
+5755,1:Male,4:No Labor,26,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,2,31
+5756,2:Female,3:Induced,20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,36.1
+5757,1:Male,1:Spontaneous,26,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,3,21.6
+5758,1:Male,3:Induced,19,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,23.8
+5759,2:Female,"2:Spontaneous, augmented",31,"2:$5,000-$9,999",1:< High School,1:Black/African American,1:Yes,6,27.4
+5760,2:Female,4:No Labor,21,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,3,35.5
+5761,2:Female,3:Induced,23,"1:$0-$4,999",3:Technical School,1:Black/African American,0:No,3,19
+5762,1:Male,1:Spontaneous,28,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,16.6
+5763,1:Male,1:Spontaneous,18,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,22.7
+5764,2:Female,4:No Labor,20,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,24.8
+5765,1:Male,1:Spontaneous,33,"2:$5,000-$9,999",2:High School/GED,2:White,0:No,2,24.5
+5766,2:Female,3:Induced,18,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,2,24.5
+5767,1:Male,"2:Spontaneous, augmented",22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,33.2
+5768,1:Male,3:Induced,22,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,32.1
+5769,1:Male,3:Induced,32,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,4,32.1
+5770,2:Female,3:Induced,27,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,4,26.1
+5771,2:Female,1:Spontaneous,26,"9:$55,000-$64,999",4:College Degree,2:White,0:No,2,21.7
+5772,2:Female,"2:Spontaneous, augmented",21,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,3,18.9
+5773,2:Female,1:Spontaneous,29,"11:$75,000 or over",4:College Degree,2:White,0:No,4,28.5
+5774,1:Male,"2:Spontaneous, augmented",21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,4,25.3
+5775,2:Female,"2:Spontaneous, augmented",30,"10:$65,000-$74,999",3:Technical School,1:Black/African American,0:No,1,37.9
+5776,2:Female,3:Induced,21,"6:$25,000-$34,999",4:College Degree,2:White,0:No,2,21.8
+5777,2:Female,"2:Spontaneous, augmented",28,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,1,47.4
+5778,2:Female,3:Induced,21,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,31.3
+5779,1:Male,3:Induced,31,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,4,33.5
+5780,1:Male,3:Induced,26,"6:$25,000-$34,999",1:< High School,2:White,0:No,1,17.9
+5781,1:Male,"2:Spontaneous, augmented",34,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,1:Yes,6,28.5
+5782,1:Male,3:Induced,25,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,1,20.9
+5783,2:Female,4:No Labor,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,28.3
+5784,2:Female,3:Induced,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,37.9
+5785,2:Female,4:No Labor,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,19.4
+5786,2:Female,"2:Spontaneous, augmented",19,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,1,36.9
+5787,1:Male,4:No Labor,21,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,3,28.9
+5788,1:Male,1:Spontaneous,34,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,3,24.7
+5789,1:Male,"2:Spontaneous, augmented",21,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,28.8
+5790,2:Female,1:Spontaneous,19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,30.2
+5791,1:Male,3:Induced,28,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,1,25.3
+5792,1:Male,3:Induced,17,.U:Unknown,1:< High School,1:Black/African American,0:No,2,19.5
+5793,2:Female,"2:Spontaneous, augmented",27,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,25.1
+5794,2:Female,1:Spontaneous,32,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,29.6
+5795,1:Male,"2:Spontaneous, augmented",21,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,22.1
+5796,1:Male,4:No Labor,33,"7:$35,000-$44,999",3:Technical School,1:Black/African American,0:No,4,31.7
+5797,2:Female,1:Spontaneous,34,.:Missing,4:College Degree,2:White,0:No,1,21.6
+5798,2:Female,3:Induced,26,"2:$5,000-$9,999",2:High School/GED,2:White,0:No,1,24.5
+5799,1:Male,1:Spontaneous,26,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,38
+5800,2:Female,4:No Labor,30,"11:$75,000 or over",3:Technical School,1:Black/African American,0:No,1,29.3
+5801,1:Male,1:Spontaneous,30,"11:$75,000 or over",4:College Degree,2:White,0:No,3,34
+5802,1:Male,1:Spontaneous,38,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,4,37.7
+5803,2:Female,1:Spontaneous,29,"5:$20,000-$24,999",4:College Degree,2:White,0:No,2,22.7
+5804,1:Male,1:Spontaneous,27,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,1,28.2
+5805,2:Female,4:No Labor,28,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,4,37
+5806,2:Female,4:No Labor,34,"11:$75,000 or over",3:Technical School,2:White,0:No,3,22.7
+5807,1:Male,4:No Labor,31,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,22.3
+5808,1:Male,3:Induced,26,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,6,31.7
+5809,1:Male,1:Spontaneous,19,"2:$5,000-$9,999",2:High School/GED,2:White,0:No,1,20.8
+5810,1:Male,4:No Labor,28,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,38
+5811,1:Male,1:Spontaneous,18,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,22.5
+5812,1:Male,"2:Spontaneous, augmented",29,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,3,32.5
+5813,1:Male,3:Induced,20,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,42.3
+5814,1:Male,4:No Labor,22,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,43.9
+5815,1:Male,4:No Labor,29,"8:$45,000-$54,999",4:College Degree,1:Black/African American,1:Yes,1,40.4
+5816,2:Female,3:Induced,22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,28.3
+5817,1:Male,3:Induced,19,.U:Unknown,1:< High School,2:White,1:Yes,1,50.3
+5818,1:Male,3:Induced,27,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,24.5
+5819,.:Missing,.:Missing,27,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,4,29.2
+5820,1:Male,4:No Labor,31,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,2,30.6
+5821,2:Female,1:Spontaneous,37,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,4,23.9
+5822,2:Female,1:Spontaneous,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,23.9
+5823,1:Male,3:Induced,23,.U:Unknown,2:High School/GED,1:Black/African American,0:No,4,24.8
+5824,1:Male,1:Spontaneous,30,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,25.9
+5825,2:Female,3:Induced,18,"1:$0-$4,999",2:High School/GED,2:White,1:Yes,1,25.8
+5826,1:Male,3:Induced,23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,15.2
+5827,1:Male,3:Induced,23,"4:$15,000-$19,999",3:Technical School,6:Other,0:No,1,34.2
+5828,2:Female,"2:Spontaneous, augmented",33,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,8,23.9
+5829,2:Female,3:Induced,31,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,6,46.9
+5830,2:Female,"2:Spontaneous, augmented",33,"11:$75,000 or over",4:College Degree,2:White,0:No,2,27.5
+5831,1:Male,4:No Labor,28,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,30.6
+5832,1:Male,4:No Labor,37,"7:$35,000-$44,999",5:Grad/Professional Degree,2:White,0:No,3,19.8
+5833,.:Missing,.:Missing,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,6,21.1
+5834,2:Female,"2:Spontaneous, augmented",22,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,1,22.7
+5835,1:Male,1:Spontaneous,25,"9:$55,000-$64,999",4:College Degree,2:White,0:No,2,26.6
+5836,2:Female,"2:Spontaneous, augmented",25,"11:$75,000 or over",4:College Degree,2:White,0:No,1,22.4
+5837,2:Female,3:Induced,25,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,33.1
+5838,2:Female,1:Spontaneous,31,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,5,31.2
+5839,1:Male,3:Induced,20,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,26.7
+5840,2:Female,4:No Labor,25,"6:$25,000-$34,999",4:College Degree,2:White,0:No,3,24
+5841,2:Female,3:Induced,22,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,1,21.4
+5842,2:Female,"2:Spontaneous, augmented",31,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,5,21
+5843,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,1:< High School,1:Black/African American,0:No,1,19.3
+5844,1:Male,1:Spontaneous,26,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,9,23.1
+5845,1:Male,"2:Spontaneous, augmented",31,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,5,38
+5846,2:Female,4:No Labor,21,"4:$15,000-$19,999",1:< High School,2:White,1:Yes,3,23.1
+5847,2:Female,1:Spontaneous,24,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,2,28.5
+5848,2:Female,3:Induced,25,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,26.7
+5849,2:Female,4:No Labor,21,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,23.2
+5850,1:Male,4:No Labor,29,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,4,41.5
+5851,2:Female,"2:Spontaneous, augmented",25,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,5,25.8
+5852,2:Female,3:Induced,27,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,1,33.4
+5853,1:Male,"2:Spontaneous, augmented",32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,21.3
+5854,1:Male,3:Induced,19,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,28.3
+5855,2:Female,3:Induced,29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,24.4
+5856,1:Male,1:Spontaneous,28,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,2,21.3
+5857,1:Male,4:No Labor,36,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,5,26.4
+5858,.:Missing,.:Missing,33,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,2,22.4
+5859,1:Male,1:Spontaneous,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,20.1
+5860,1:Male,1:Spontaneous,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,23.3
+5861,1:Male,1:Spontaneous,22,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,2,28
+5862,2:Female,1:Spontaneous,36,"11:$75,000 or over",4:College Degree,2:White,0:No,3,24
+5863,1:Male,"2:Spontaneous, augmented",23,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,3,24.4
+5864,1:Male,1:Spontaneous,23,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,3,23.7
+5865,1:Male,1:Spontaneous,21,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,21.3
+5866,2:Female,3:Induced,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,22.3
+5867,2:Female,3:Induced,28,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,29.5
+5868,.:Missing,.:Missing,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,20.6
+5869,1:Male,3:Induced,31,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,37.3
+5870,2:Female,1:Spontaneous,36,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,28.3
+5871,1:Male,4:No Labor,31,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,3,37.4
+5872,2:Female,3:Induced,24,"6:$25,000-$34,999",4:College Degree,2:White,0:No,2,28.8
+5873,1:Male,1:Spontaneous,23,"8:$45,000-$54,999",2:High School/GED,2:White,1:Yes,4,21.3
+5874,1:Male,"2:Spontaneous, augmented",18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,25.2
+5875,2:Female,3:Induced,17,"7:$35,000-$44,999",1:< High School,2:White,1:Yes,1,28.7
+5876,1:Male,3:Induced,22,"5:$20,000-$24,999",2:High School/GED,2:White,1:Yes,1,17.9
+5877,2:Female,4:No Labor,31,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,45.1
+5878,1:Male,1:Spontaneous,23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,19.1
+5879,2:Female,4:No Labor,24,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,27.7
+5880,2:Female,1:Spontaneous,23,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,4,24.2
+5881,2:Female,3:Induced,19,"3:$10,000-$14,999",1:< High School,1:Black/African American,1:Yes,5,35.7
+5882,2:Female,"2:Spontaneous, augmented",17,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,1,19
+5883,1:Male,"2:Spontaneous, augmented",23,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,18
+5884,1:Male,"2:Spontaneous, augmented",32,"8:$45,000-$54,999",5:Grad/Professional Degree,2:White,1:Yes,2,25
+5885,1:Male,4:No Labor,24,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,1,22.7
+5886,2:Female,"2:Spontaneous, augmented",35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,27.5
+5887,2:Female,3:Induced,17,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,1,30.7
+5888,2:Female,4:No Labor,24,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,2,42.1
+5889,2:Female,"2:Spontaneous, augmented",24,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,7,25.3
+5890,2:Female,1:Spontaneous,34,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,4,23.2
+5891,1:Male,"2:Spontaneous, augmented",27,"9:$55,000-$64,999",4:College Degree,2:White,0:No,1,21.5
+5892,1:Male,4:No Labor,38,"2:$5,000-$9,999",4:College Degree,1:Black/African American,0:No,1,40.7
+5893,1:Male,3:Induced,20,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,20.1
+5894,1:Male,1:Spontaneous,17,.U:Unknown,1:< High School,1:Black/African American,0:No,1,24.7
+5895,1:Male,"2:Spontaneous, augmented",23,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,28.4
+5896,2:Female,4:No Labor,35,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,31
+5897,1:Male,4:No Labor,25,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,8,24.7
+5898,2:Female,4:No Labor,26,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,26.2
+5899,2:Female,4:No Labor,19,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,20.5
+5900,2:Female,"2:Spontaneous, augmented",29,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,5,34.6
+5901,1:Male,4:No Labor,25,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,4,19.6
+5902,2:Female,1:Spontaneous,17,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,25.8
+5903,1:Male,3:Induced,23,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,28.2
+5904,2:Female,3:Induced,29,"11:$75,000 or over",2:High School/GED,2:White,0:No,7,28.3
+5905,1:Male,"2:Spontaneous, augmented",19,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,27.4
+5906,2:Female,4:No Labor,30,"9:$55,000-$64,999",3:Technical School,1:Black/African American,0:No,5,52.3
+5907,2:Female,3:Induced,23,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,37.9
+5908,2:Female,3:Induced,33,"7:$35,000-$44,999",4:College Degree,2:White,0:No,2,29.4
+5909,2:Female,3:Induced,21,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,1,25.7
+5910,1:Male,3:Induced,22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,24.7
+5911,2:Female,3:Induced,20,"6:$25,000-$34,999",3:Technical School,2:White,1:Yes,2,39.1
+5912,1:Male,4:No Labor,33,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,5,32.2
+5913,2:Female,1:Spontaneous,19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,21
+5914,2:Female,1:Spontaneous,25,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,1,22.3
+5915,2:Female,3:Induced,18,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,1,22.5
+5916,1:Male,1:Spontaneous,31,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,2,25.3
+5917,2:Female,3:Induced,35,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,0:No,5,26
+5918,2:Female,1:Spontaneous,23,"9:$55,000-$64,999",3:Technical School,2:White,0:No,2,23.2
+5919,1:Male,3:Induced,17,.U:Unknown,1:< High School,1:Black/African American,0:No,1,22.4
+5920,2:Female,1:Spontaneous,21,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,1,20.3
+5921,1:Male,"2:Spontaneous, augmented",30,"10:$65,000-$74,999",4:College Degree,2:White,0:No,3,32
+5922,2:Female,4:No Labor,38,"11:$75,000 or over",4:College Degree,2:White,0:No,1,31.3
+5923,2:Female,4:No Labor,24,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,50.5
+5924,1:Male,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,2:White,0:No,2,32.9
+5925,2:Female,1:Spontaneous,24,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,21.8
+5926,2:Female,3:Induced,33,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,3,33.1
+5927,1:Male,1:Spontaneous,25,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,5,42.8
+5928,2:Female,"2:Spontaneous, augmented",27,"8:$45,000-$54,999",4:College Degree,1:Black/African American,0:No,2,16.8
+5929,1:Male,"2:Spontaneous, augmented",26,.U:Unknown,1:< High School,1:Black/African American,0:No,5,18.6
+5930,1:Male,"2:Spontaneous, augmented",35,"11:$75,000 or over",4:College Degree,2:White,0:No,1,33.1
+5931,2:Female,"2:Spontaneous, augmented",22,.U:Unknown,2:High School/GED,1:Black/African American,0:No,1,26.1
+5932,2:Female,"2:Spontaneous, augmented",23,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,1:Yes,2,22.8
+5933,1:Male,1:Spontaneous,36,"2:$5,000-$9,999",1:< High School,1:Black/African American,0:No,7,27.5
+5934,2:Female,"2:Spontaneous, augmented",33,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,3,23.6
+5935,2:Female,3:Induced,37,"8:$45,000-$54,999",2:High School/GED,2:White,0:No,3,28.3
+5936,1:Male,1:Spontaneous,34,"9:$55,000-$64,999",4:College Degree,2:White,0:No,2,19.3
+5937,2:Female,"2:Spontaneous, augmented",22,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,1,20.9
+5938,2:Female,"2:Spontaneous, augmented",23,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,1:Yes,3,28.2
+5939,1:Male,4:No Labor,30,"4:$15,000-$19,999",4:College Degree,2:White,1:Yes,5,29.3
+5940,2:Female,4:No Labor,34,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,19
+5941,1:Male,4:No Labor,32,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,2,26.2
+5942,2:Female,1:Spontaneous,35,"9:$55,000-$64,999",3:Technical School,2:White,0:No,2,34.5
+5943,2:Female,3:Induced,31,"6:$25,000-$34,999",4:College Degree,1:Black/African American,0:No,3,26.6
+5944,2:Female,3:Induced,40,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,25.2
+5945,1:Male,"2:Spontaneous, augmented",23,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,2,22.7
+5946,2:Female,3:Induced,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,1:Yes,3,26.1
+5947,2:Female,"2:Spontaneous, augmented",23,"5:$20,000-$24,999",2:High School/GED,2:White,1:Yes,2,23.8
+5948,2:Female,"2:Spontaneous, augmented",31,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,7,21.6
+5949,1:Male,"2:Spontaneous, augmented",37,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,23.3
+5950,2:Female,1:Spontaneous,26,.U:Unknown,2:High School/GED,1:Black/African American,0:No,5,31
+5951,2:Female,3:Induced,20,.U:Unknown,1:< High School,1:Black/African American,0:No,2,34.7
+5952,2:Female,"2:Spontaneous, augmented",30,"10:$65,000-$74,999",4:College Degree,2:White,0:No,2,21.8
+5953,1:Male,"2:Spontaneous, augmented",22,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,3,26.8
+5954,1:Male,3:Induced,22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,1:Yes,1,18.3
+5955,2:Female,1:Spontaneous,19,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,31.1
+5956,1:Male,1:Spontaneous,38,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,3,30
+5957,1:Male,3:Induced,28,"11:$75,000 or over",4:College Degree,2:White,0:No,1,17.6
+5958,2:Female,4:No Labor,28,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,2,24
+5959,2:Female,"2:Spontaneous, augmented",31,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,56.8
+5960,2:Female,4:No Labor,32,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,28.7
+5961,2:Female,"2:Spontaneous, augmented",21,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,1,24.8
+5962,2:Female,"2:Spontaneous, augmented",27,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,5,26.6
+5963,2:Female,3:Induced,17,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,1,27
+5964,2:Female,3:Induced,23,"4:$15,000-$19,999",4:College Degree,2:White,0:No,1,16.7
+5965,2:Female,3:Induced,25,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,3,39.8
+5966,1:Male,"2:Spontaneous, augmented",27,"6:$25,000-$34,999",5:Grad/Professional Degree,2:White,0:No,2,20
+5967,2:Female,1:Spontaneous,40,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,3,31.2
+5968,2:Female,3:Induced,26,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,34.4
+5969,2:Female,1:Spontaneous,32,"7:$35,000-$44,999",4:College Degree,2:White,0:No,3,18
+5970,1:Male,4:No Labor,26,"5:$20,000-$24,999",4:College Degree,2:White,0:No,2,24.9
+5971,2:Female,3:Induced,20,"2:$5,000-$9,999",1:< High School,1:Black/African American,1:Yes,1,26.8
+5972,1:Male,"2:Spontaneous, augmented",28,"10:$65,000-$74,999",2:High School/GED,2:White,0:No,1,28
+5973,1:Male,1:Spontaneous,27,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,23.7
+5974,1:Male,3:Induced,25,"9:$55,000-$64,999",4:College Degree,2:White,0:No,1,23.8
+5975,2:Female,1:Spontaneous,27,"11:$75,000 or over",4:College Degree,2:White,0:No,2,22.1
+5976,1:Male,1:Spontaneous,25,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,4,22.7
+5977,1:Male,4:No Labor,27,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,1,38.4
+5978,1:Male,4:No Labor,22,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,19.8
+5979,2:Female,3:Induced,21,"6:$25,000-$34,999",2:High School/GED,2:White,1:Yes,2,31.3
+5980,1:Male,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,3,24.2
+5981,2:Female,"2:Spontaneous, augmented",36,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,4,23.8
+5982,2:Female,"2:Spontaneous, augmented",25,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,2,24.5
+5983,1:Male,1:Spontaneous,26,"4:$15,000-$19,999",2:High School/GED,6:Other,1:Yes,6,27.1
+5984,1:Male,3:Induced,20,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,28.1
+5985,1:Male,"2:Spontaneous, augmented",21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,21.8
+5986,2:Female,"2:Spontaneous, augmented",29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,23.3
+5987,2:Female,1:Spontaneous,30,"11:$75,000 or over",4:College Degree,2:White,0:No,3,25.1
+5988,2:Female,1:Spontaneous,33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,30.4
+5989,2:Female,"2:Spontaneous, augmented",20,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,3,22.1
+5990,1:Male,"2:Spontaneous, augmented",20,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,28.2
+5991,2:Female,3:Induced,30,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,1,20.5
+5992,1:Male,4:No Labor,27,"6:$25,000-$34,999",3:Technical School,2:White,0:No,4,26.6
+5993,1:Male,1:Spontaneous,25,"8:$45,000-$54,999",3:Technical School,2:White,0:No,2,25.1
+5994,1:Male,"2:Spontaneous, augmented",20,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,1,25.8
+5995,2:Female,4:No Labor,26,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,0:No,1,42.3
+5996,1:Male,1:Spontaneous,27,"9:$55,000-$64,999",4:College Degree,6:Other,0:No,2,21.5
+5997,1:Male,3:Induced,30,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,25.4
+5998,2:Female,"2:Spontaneous, augmented",30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,21.3
+5999,2:Female,1:Spontaneous,34,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,26.5
+6000,1:Male,3:Induced,28,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,18.3
+6001,2:Female,3:Induced,35,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,4,31.1
+6002,1:Male,"2:Spontaneous, augmented",28,"7:$35,000-$44,999",4:College Degree,2:White,0:No,1,23.6
+6003,1:Male,3:Induced,33,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,25.7
+6004,1:Male,1:Spontaneous,29,"3:$10,000-$14,999",5:Grad/Professional Degree,3:Asian,0:No,2,21
+6005,2:Female,3:Induced,24,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,34.1
+6006,2:Female,1:Spontaneous,31,"11:$75,000 or over",4:College Degree,2:White,0:No,1,20.6
+6007,2:Female,4:No Labor,26,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,4,20.8
+6008,2:Female,"2:Spontaneous, augmented",30,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,4,18.8
+6009,1:Male,1:Spontaneous,30,"7:$35,000-$44,999",5:Grad/Professional Degree,2:White,0:No,3,21.8
+6010,2:Female,4:No Labor,32,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,2,45.9
+6011,1:Male,3:Induced,34,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,5,25
+6012,2:Female,3:Induced,31,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,2,38.8
+6013,1:Male,"2:Spontaneous, augmented",26,.U:Unknown,2:High School/GED,1:Black/African American,1:Yes,2,18.3
+6014,1:Male,"2:Spontaneous, augmented",23,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,1,33.9
+6015,1:Male,4:No Labor,34,"10:$65,000-$74,999",3:Technical School,1:Black/African American,0:No,2,31.1
+6016,1:Male,1:Spontaneous,28,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,22.5
+6017,2:Female,1:Spontaneous,32,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,4,33.4
+6018,2:Female,"2:Spontaneous, augmented",21,"1:$0-$4,999",2:High School/GED,2:White,1:Yes,1,22.9
+6019,2:Female,"2:Spontaneous, augmented",35,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,4,29.1
+6020,1:Male,1:Spontaneous,25,"2:$5,000-$9,999",2:High School/GED,2:White,1:Yes,1,19
+6021,2:Female,4:No Labor,32,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,8,26.7
+6022,2:Female,"2:Spontaneous, augmented",20,"5:$20,000-$24,999",3:Technical School,1:Black/African American,0:No,2,17.4
+6023,2:Female,1:Spontaneous,34,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,3,26.6
+6024,2:Female,3:Induced,29,"8:$45,000-$54,999",2:High School/GED,1:Black/African American,0:No,2,29.8
+6025,1:Male,4:No Labor,27,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,1:Yes,2,56
+6026,1:Male,1:Spontaneous,25,"8:$45,000-$54,999",4:College Degree,6:Other,0:No,1,19.6
+6027,2:Female,4:No Labor,25,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,29
+6028,2:Female,1:Spontaneous,31,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,2,14.2
+6029,1:Male,"2:Spontaneous, augmented",30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,23.8
+6030,2:Female,"2:Spontaneous, augmented",23,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,1,17.8
+6031,1:Male,3:Induced,24,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,24.4
+6032,1:Male,1:Spontaneous,23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,23
+6033,1:Male,1:Spontaneous,35,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,7,26.6
+6034,2:Female,4:No Labor,28,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,3,51.6
+6035,2:Female,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,33.3
+6036,1:Male,"2:Spontaneous, augmented",35,"6:$25,000-$34,999",4:College Degree,2:White,0:No,3,22.5
+6037,1:Male,3:Induced,22,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,2,26.6
+6038,.:Missing,.:Missing,19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,20.6
+6039,1:Male,1:Spontaneous,25,"7:$35,000-$44,999",1:< High School,2:White,0:No,4,21.8
+6040,2:Female,"2:Spontaneous, augmented",26,"6:$25,000-$34,999",2:High School/GED,2:White,0:No,2,20.7
+6041,2:Female,1:Spontaneous,30,"9:$55,000-$64,999",5:Grad/Professional Degree,1:Black/African American,0:No,2,33.9
+6042,1:Male,"2:Spontaneous, augmented",30,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,26.9
+6043,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,25.2
+6044,1:Male,3:Induced,37,"11:$75,000 or over",2:High School/GED,2:White,1:Yes,2,41.3
+6045,2:Female,4:No Labor,27,"11:$75,000 or over",4:College Degree,2:White,0:No,2,17.8
+6046,2:Female,4:No Labor,32,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,1:Yes,5,26.3
+6047,1:Male,"2:Spontaneous, augmented",27,"8:$45,000-$54,999",4:College Degree,2:White,0:No,1,19.6
+6048,1:Male,"2:Spontaneous, augmented",38,"8:$45,000-$54,999",4:College Degree,2:White,0:No,4,30.9
+6049,2:Female,4:No Labor,25,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,40.2
+6050,2:Female,4:No Labor,30,"11:$75,000 or over",3:Technical School,2:White,1:Yes,5,30.5
+6051,2:Female,"2:Spontaneous, augmented",22,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,33.3
+6052,2:Female,3:Induced,19,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,1,24.7
+6053,1:Male,3:Induced,22,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,1,25.8
+6054,2:Female,1:Spontaneous,35,"9:$55,000-$64,999",4:College Degree,2:White,0:No,4,21.2
+6055,2:Female,3:Induced,28,"11:$75,000 or over",4:College Degree,2:White,0:No,1,27.3
+6056,1:Male,3:Induced,29,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,40.1
+6057,1:Male,4:No Labor,29,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,25.8
+6058,1:Male,3:Induced,34,"11:$75,000 or over",5:Grad/Professional Degree,1:Black/African American,0:No,1,30.7
+6059,1:Male,1:Spontaneous,38,"11:$75,000 or over",4:College Degree,2:White,0:No,2,18.3
+6060,2:Female,3:Induced,20,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,21
+6061,1:Male,3:Induced,36,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,1,37.7
+6062,1:Male,1:Spontaneous,30,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,5,25.8
+6063,2:Female,3:Induced,36,"9:$55,000-$64,999",5:Grad/Professional Degree,2:White,1:Yes,3,17.8
+6064,1:Male,4:No Labor,35,"9:$55,000-$64,999",4:College Degree,2:White,0:No,2,22.4
+6065,2:Female,3:Induced,29,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,37.9
+6066,2:Female,3:Induced,38,"11:$75,000 or over",4:College Degree,2:White,0:No,5,20.8
+6067,2:Female,1:Spontaneous,20,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,2,22.3
+6068,1:Male,1:Spontaneous,20,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,21.6
+6069,.:Missing,.:Missing,19,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,1,29
+6070,1:Male,3:Induced,30,"10:$65,000-$74,999",4:College Degree,1:Black/African American,1:Yes,2,17.7
+6071,1:Male,4:No Labor,25,"7:$35,000-$44,999",2:High School/GED,1:Black/African American,0:No,4,42.4
+6072,2:Female,4:No Labor,24,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,23.3
+6073,2:Female,3:Induced,30,"1:$0-$4,999",1:< High School,1:Black/African American,1:Yes,6,25.8
+6074,2:Female,3:Induced,20,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,3,21.5
+6075,1:Male,1:Spontaneous,31,"4:$15,000-$19,999",1:< High School,1:Black/African American,0:No,8,29.4
+6076,1:Male,1:Spontaneous,24,"1:$0-$4,999",4:College Degree,1:Black/African American,0:No,2,26.6
+6077,1:Male,3:Induced,30,"11:$75,000 or over",4:College Degree,2:White,0:No,1,27.4
+6078,2:Female,3:Induced,33,"8:$45,000-$54,999",4:College Degree,2:White,0:No,2,22.9
+6079,2:Female,4:No Labor,35,"11:$75,000 or over",2:High School/GED,1:Black/African American,0:No,1,30.5
+6080,1:Male,1:Spontaneous,23,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,3,22
+6081,2:Female,"2:Spontaneous, augmented",24,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,1,23.1
+6082,1:Male,1:Spontaneous,19,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,25.9
+6083,2:Female,3:Induced,22,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,2,25.7
+6084,1:Male,1:Spontaneous,20,"3:$10,000-$14,999",3:Technical School,1:Black/African American,0:No,1,21
+6085,2:Female,3:Induced,29,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,22.9
+6086,2:Female,.:Missing,25,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,3,42.5
+6087,1:Male,3:Induced,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,3,23.6
+6088,1:Male,4:No Labor,29,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,39.8
+6089,2:Female,3:Induced,17,"1:$0-$4,999",1:< High School,1:Black/African American,0:No,1,23.1
+6090,1:Male,1:Spontaneous,24,"6:$25,000-$34,999",3:Technical School,1:Black/African American,0:No,2,31.4
+6091,2:Female,"2:Spontaneous, augmented",19,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,27.4
+6092,2:Female,1:Spontaneous,26,"6:$25,000-$34,999",5:Grad/Professional Degree,2:White,0:No,1,32.1
+6093,2:Female,3:Induced,26,"8:$45,000-$54,999",3:Technical School,2:White,0:No,2,17.4
+6094,2:Female,3:Induced,38,"4:$15,000-$19,999",5:Grad/Professional Degree,1:Black/African American,0:No,1,24.9
+6095,2:Female,3:Induced,28,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,25.2
+6096,.:Missing,.:Missing,27,"2:$5,000-$9,999",1:< High School,1:Black/African American,1:Yes,6,19.2
+6097,1:Male,1:Spontaneous,23,"9:$55,000-$64,999",2:High School/GED,2:White,0:No,3,20.5
+6098,1:Male,4:No Labor,20,"3:$10,000-$14,999",2:High School/GED,2:White,0:No,2,25.7
+6099,1:Male,3:Induced,24,"10:$65,000-$74,999",4:College Degree,1:Black/African American,0:No,4,32.5
+6100,1:Male,"2:Spontaneous, augmented",20,.U:Unknown,1:< High School,1:Black/African American,0:No,2,24.8
+6101,1:Male,4:No Labor,27,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,26.4
+6102,1:Male,1:Spontaneous,19,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,2,44.6
+6103,2:Female,1:Spontaneous,32,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,30.5
+6104,2:Female,"2:Spontaneous, augmented",38,"11:$75,000 or over",4:College Degree,2:White,0:No,2,22.8
+6105,1:Male,1:Spontaneous,33,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,3,20.1
+6106,1:Male,4:No Labor,29,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,1:Yes,2,38.8
+6107,2:Female,"2:Spontaneous, augmented",28,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,38.8
+6108,2:Female,"2:Spontaneous, augmented",32,"3:$10,000-$14,999",1:< High School,1:Black/African American,0:No,9,29.6
+6109,2:Female,4:No Labor,25,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,7,22.9
+6110,2:Female,1:Spontaneous,28,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,6,34.7
+6111,2:Female,3:Induced,21,"4:$15,000-$19,999",3:Technical School,1:Black/African American,0:No,1,25.8
+6112,1:Male,"2:Spontaneous, augmented",30,"2:$5,000-$9,999",4:College Degree,1:Black/African American,0:No,6,22.9
+6113,1:Male,3:Induced,20,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,1:Yes,1,30.9
+6114,2:Female,1:Spontaneous,31,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,18.7
+6115,2:Female,"2:Spontaneous, augmented",29,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,2,46.9
+6116,1:Male,1:Spontaneous,18,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,1,21.9
+6117,2:Female,4:No Labor,25,"2:$5,000-$9,999",2:High School/GED,1:Black/African American,0:No,6,39.9
+6118,1:Male,"2:Spontaneous, augmented",19,"3:$10,000-$14,999",2:High School/GED,1:Black/African American,0:No,3,19.5
+6119,1:Male,"2:Spontaneous, augmented",26,"11:$75,000 or over",2:High School/GED,2:White,0:No,1,25
+6120,2:Female,1:Spontaneous,23,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,26.7
+6121,1:Male,"2:Spontaneous, augmented",30,"6:$25,000-$34,999",1:< High School,1:Black/African American,0:No,3,22.1
+6122,1:Male,1:Spontaneous,20,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,23.1
+6123,2:Female,"2:Spontaneous, augmented",31,"6:$25,000-$34,999",3:Technical School,2:White,0:No,1,32.5
+6124,1:Male,1:Spontaneous,29,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,7,24.8
+6125,1:Male,1:Spontaneous,26,"4:$15,000-$19,999",3:Technical School,2:White,0:No,2,33.6
+6126,1:Male,4:No Labor,30,"4:$15,000-$19,999",4:College Degree,2:White,0:No,3,23.6
+6127,1:Male,3:Induced,24,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,4,22.8
+6128,2:Female,"2:Spontaneous, augmented",32,"7:$35,000-$44,999",4:College Degree,1:Black/African American,0:No,7,25.1
+6129,1:Male,1:Spontaneous,32,"11:$75,000 or over",5:Grad/Professional Degree,2:White,0:No,2,21.4
+6130,1:Male,"2:Spontaneous, augmented",39,"9:$55,000-$64,999",4:College Degree,1:Black/African American,0:No,8,39
+6131,2:Female,"2:Spontaneous, augmented",18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,25.1
+6132,1:Male,1:Spontaneous,30,"11:$75,000 or over",4:College Degree,2:White,0:No,3,23.9
+6133,2:Female,4:No Labor,28,"7:$35,000-$44,999",2:High School/GED,2:White,0:No,3,19.8
+6134,1:Male,1:Spontaneous,24,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,25.2
+6135,2:Female,3:Induced,25,"3:$10,000-$14,999",1:< High School,2:White,0:No,2,22.7
+6136,1:Male,"2:Spontaneous, augmented",26,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,5,52.4
+6137,1:Male,3:Induced,23,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,1,23.7
+6138,2:Female,3:Induced,21,"4:$15,000-$19,999",2:High School/GED,1:Black/African American,0:No,1,47.1
+6139,1:Male,1:Spontaneous,17,"11:$75,000 or over",1:< High School,1:Black/African American,0:No,1,21.9
+6140,2:Female,"2:Spontaneous, augmented",27,"4:$15,000-$19,999",2:High School/GED,2:White,0:No,3,16.5
+6141,1:Male,1:Spontaneous,31,"11:$75,000 or over",4:College Degree,1:Black/African American,0:No,3,30
+6142,2:Female,1:Spontaneous,36,"1:$0-$4,999",2:High School/GED,2:White,1:Yes,10,20.8
+6143,1:Male,3:Induced,25,"9:$55,000-$64,999",3:Technical School,2:White,0:No,1,23.4
+6144,1:Male,3:Induced,20,"2:$5,000-$9,999",3:Technical School,1:Black/African American,0:No,1,32.1
+6145,1:Male,3:Induced,18,"3:$10,000-$14,999",2:High School/GED,2:White,0:No,1,23
+6146,2:Female,3:Induced,21,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,1,18.2
+6147,2:Female,"2:Spontaneous, augmented",22,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,3,34
+6148,.:Missing,.:Missing,26,"4:$15,000-$19,999",2:High School/GED,2:White,1:Yes,5,24.6
+6149,2:Female,1:Spontaneous,27,"10:$65,000-$74,999",5:Grad/Professional Degree,2:White,0:No,1,21.9
+6150,2:Female,3:Induced,27,"6:$25,000-$34,999",2:High School/GED,6:Other,0:No,3,24.5
+6151,1:Male,3:Induced,25,"10:$65,000-$74,999",2:High School/GED,1:Black/African American,0:No,6,41.5
+6152,1:Male,4:No Labor,35,"9:$55,000-$64,999",2:High School/GED,1:Black/African American,0:No,6,23.2
+6153,2:Female,"2:Spontaneous, augmented",20,.U:Unknown,3:Technical School,2:White,0:No,1,20.8
+6154,2:Female,3:Induced,25,"6:$25,000-$34,999",2:High School/GED,1:Black/African American,0:No,2,25.7
+6155,2:Female,3:Induced,24,"10:$65,000-$74,999",4:College Degree,2:White,0:No,1,22.2
+6156,1:Male,"2:Spontaneous, augmented",29,"8:$45,000-$54,999",3:Technical School,1:Black/African American,0:No,4,24.1
+6157,2:Female,"2:Spontaneous, augmented",28,"5:$20,000-$24,999",2:High School/GED,1:Black/African American,0:No,1,19.8
+6158,2:Female,4:No Labor,24,"5:$20,000-$24,999",1:< High School,2:White,0:No,2,28.4
+6159,1:Male,3:Induced,18,"1:$0-$4,999",2:High School/GED,1:Black/African American,0:No,2,18.9
+6160,1:Male,1:Spontaneous,33,"10:$65,000-$74,999",3:Technical School,2:White,1:Yes,1,22.6
+6161,1:Male,3:Induced,22,"5:$20,000-$24,999",2:High School/GED,2:White,0:No,1,27.7

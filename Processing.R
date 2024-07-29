@@ -13,7 +13,7 @@ library(tmap)
 
 
 p <- read_csv("data_raw/candle_psyc.csv")
-a <- read_csv("data_raw/aces_psle.csv")
+a <- read_csv("data_raw/amend.csv")
 r<- read_csv("data_raw/PLAC_ages_RPC_clean.csv")
 c<-read_csv("data_raw/PLAC_ages_CPC_clean.csv")
 i<-read_csv("data_raw/newinc.csv")
