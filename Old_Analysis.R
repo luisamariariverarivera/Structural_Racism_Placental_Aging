@@ -95,10 +95,10 @@ df$gestage <- scale(df$gestage)
 
  ##make 2 complete case datasets stratified by race, one with centered (for analysis) and one with untransformed variables (for reporting)
 
-d_black <- df %>% filter(mrace=="Identifies as Black") %>% select(c(age_difference_CPC, ICErace_s,ICEraceinc_s, mage_s, mtotpreg_s,tleqtot_s, adjusted_income_s, bmi_s, hs, csex, pc1_s, pc2_s, pc3_s, smoke, gestage, diabetes, hypertension, zweight, zlength))
+d_black <- df %>% filter(mrace=="Identifies as Black") %>% select(c(age_difference_CPC, ICErace_s,ICEraceinc_s, mage_s, mtotpreg_s,tleqtot_s, adjusted_income_s, bmi_s, hs, csex, pc1_s, pc2_s, pc3_s, smoke, gestage, diabetes, hypertension, zweight, zlength, mrace))
 d_black <- d_black[complete.cases(d_black),]
 
-d_white <- df %>% filter(mrace=="Identifies as White") %>% select(c(age_difference_CPC, tleqtot_s, ICErace_s,ICEraceinc_s, mage_s, mtotpreg_s, adjusted_income_s,hs, csex, smoke, bmi_s, pc1_s, pc2_s, pc3_s, gestage, diabetes, hypertension, zweight, zlength))
+d_white <- df %>% filter(mrace=="Identifies as White") %>% select(c(age_difference_CPC, tleqtot_s, ICErace_s,ICEraceinc_s, mage_s, mtotpreg_s, adjusted_income_s,hs, csex, smoke, bmi_s, pc1_s, pc2_s, pc3_s, gestage, diabetes, hypertension, zweight, zlength, mrace))
 d_white <- d_white[complete.cases(d_white),]
 
 
@@ -114,6 +114,7 @@ d_white2 <- d_white2[complete.cases(d_white2),]
 
 d_comb <- bind_rows(d_black, d_white)
 d_comb2 <- bind_rows(d_black2, d_white2)
+
 
 ##Report descriptive statistics
 
@@ -273,23 +274,95 @@ dev.off()
 
 ## do race-stratified linear regression and check model fit
 
-segregation_combined <-  lm(age_difference_CPC~ mage_s + csex +gestage +mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_comb)
+##segregation combined
+segregation_combined_covar <-  lm(age_difference_CPC~ mage_s + csex +mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_comb)
+
+summary(segregation_combined_covar)
+
+check_model(segregation_combined_covar)
+
+segregation_combined_nocovar <-  lm(age_difference_CPC~ mage_s +  tleqtot_s + ICErace_s , data= d_comb)
+
+summary(segregation_combined_nocovar)
+
+check_model(segregation_combined_nocovar)
+
+### QQ plots look bad, try robust methods
+
+##segregation combined robust
+segregation_combined_covar <-  lmrob(age_difference_CPC~ mage_s + csex +mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_comb)
+
+summary(segregation_combined_covar)
+
+check_model(segregation_combined_covar)
+
+segregation_combined_nocovar <-  lmrob(age_difference_CPC~ mage_s +  tleqtot_s + ICErace_s , data= d_comb)
+
+summary(segregation_combined_nocovar)
+
+check_model(segregation_combined_nocovar)
 
 
-summary(segregation_combined)
+##segregation Black
+segregation_black_covar <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_black)
 
-segregation_black <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_black)
+summary(segregation_black_covar)
 
-summary(segregation_black)
+segregation_black_nocovar <- lm(age_difference_CPC~ mage_s + csex + pc1_s + tleqtot_s + ICErace_s, data= d_black)
 
-segregation_white <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_white)
+summary(segregation_black_nocovar)
 
-summary(segregation_white)
+##segregation white
 
-raceinc_combined <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICEraceinc_s + adjusted_income_s, data= d_comb)
+segregation_white_covar <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICErace_s + adjusted_income_s, data= d_white)
 
-summary(raceinc_combined)
+summary(segregation_white_covar)
 
+segregation_white_nocovar <- lm(age_difference_CPC~ mage_s + csex + pc1_s + tleqtot_s + ICErace_s, data= d_white)
+
+summary(segregation_white_nocovar)
+
+
+####RaceInc
+
+##full sample
+raceinc_combined_nocovar <- lm(age_difference_CPC~ mage_s + csex  + pc1_s  + tleqtot_s + ICEraceinc_s, data= d_comb)
+
+summary(raceinc_combined_nocovar)
+
+raceinc_combined_covar <- lm(age_difference_CPC~ mage_s + csex +mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICEraceinc_s + adjusted_income_s, data= d_comb)
+
+summary(raceinc_combined_covar)
+
+raceinc_combined_covar <- lm(age_difference_CPC~ mage_s + csex +mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICEraceinc_s + adjusted_income_s, data= d_comb)
+
+summary(raceinc_combined_covar)
+
+
+##RaceInc Black
+segregation_black_covar <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICEraceinc_s + adjusted_income_s, data= d_black)
+
+summary(segregation_black_covar)
+
+segregation_black_nocovar <- lm(age_difference_CPC~ mage_s + csex + pc1_s + tleqtot_s + ICEraceinc_s, data= d_black)
+
+summary(segregation_black_nocovar)
+
+##Raceinc white
+
+segregation_white_covar <- lm(age_difference_CPC~ mage_s + csex + mtotpreg_s + bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s + ICEraceinc_s + adjusted_income_s, data= d_white)
+
+summary(segregation_white_covar)
+
+segregation_white_nocovar <- lm(age_difference_CPC~ mage_s + csex + pc1_s + tleqtot_s + ICEraceinc_s, data= d_white)
+
+summary(segregation_white_nocovar)
+
+
+library(performance)
+
+
+check_model(segregation_black_nocovar)
 
 
 # ##ICErace
@@ -369,355 +442,75 @@ summary(raceinc_combined)
 # apa.reg.table(m12, filename= "m12_white.doc")
 # 
 
-## Do model diagnostics 
-
-check_model(m1) ## repeat for each model 
 
 
-
-##Distributional Model of ICErace
-
-##Full sample
-
-formula <- bf(age_difference_CPC ~ mage_s + csex  + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s,
-              sigma ~ mage_s + csex + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s)
-
-family <- gaussian()
-
-prior <- prior(normal(0, 0.5), class = "b") + prior(normal(0, 0.5), class = "b", dpar = "sigma")
-
-fit <- brm(formula = formula,
-           data = d_comb,
-           family = family,
-           prior = prior,
-           chains = 4,     # Number of Markov chains
-           iter = 2000,    # Number of iterations per chain
-           warmup = 1000,  # Number of warmup iterations
-           cores = 4,      # Number of cores to use
-           seed = 123)     # Random seed for reproducibility
-
-
-fit2 <- brm(formula = age_difference_CPC ~ mage_s + csex  + mtotpreg_s +
-             bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-             ICErace_s + adjusted_income_s,
-           data = d_comb,
-           family = family,
-           chains = 4,     # Number of Markov chains
-           iter = 2000,    # Number of iterations per chain
-           warmup = 1000,  # Number of warmup iterations
-           cores = 4,      # Number of cores to use
-           seed = 123)     # Random seed for reproducibility
-
-summary(fit)
-
-plot(fit)
-
-
-
-pp_check(fit)  # Posterior predictive checks
-
-library(bayesplot)
-library(ggplot2)
-library(brms)
-library(reshape2)
-
-## Plot the fixed effects 
-fixed_effects <- fixef(fit)
-fixed_effects_df <- as.data.frame(fixed_effects)
-fixed_effects_df$Parameter <- rownames(fixed_effects_df)
-sigma_parameters <- grepl("sigma_", fixed_effects_df$Parameter)
-fixed_effects_mean <- fixed_effects_df[!sigma_parameters, ]
-fixed_effects_sigma <- fixed_effects_df[sigma_parameters, ]
-names(fixed_effects_mean) <- c("Estimate", "Est.Error", "Q2.5", "Q97.5", "Parameter")
-names(fixed_effects_sigma) <- c("Estimate", "Est.Error", "Q2.5", "Q97.5", "Parameter")
-
-segregation_full_mean <- ggplot(fixed_effects_mean, aes(x = Estimate, y = reorder(Parameter, Estimate))) +
-  geom_point() +
-  geom_errorbarh(aes(xmin = Q2.5, xmax = Q97.5), height = 0.2) +
-  theme_minimal() +
-  labs(
-    title = "Posterior Distributions of the Population-Level Effects (Mean)",
-    x = "Estimate",
-    y = "Parameter"
-  )
-
-segregation_full_sigma <- ggplot(fixed_effects_sigma, aes(x = Estimate, y = reorder(Parameter, Estimate))) +
-  geom_point() +
-  geom_errorbarh(aes(xmin = Q2.5, xmax = Q97.5), height = 0.2) +
-  theme_minimal() +
-  labs(
-    title = "Posterior Distributions of the Population-Level Effects (Sigma)",
-    x = "Estimate",
-    y = "Parameter"
-  )
-library(patchwork)
-segregation_full <- segregation_full_mean+segregation_full_sigma
-segregation_full
-# Extract posterior samples
-posterior_samples <- as.matrix(fit)
-
-
-##Make some custom labels
-
-custom_labels <- c(
-  "b_sigma_mage_s" = "Maternal Age",
-  "b_sigma_csexMale" = "Child Sex (Male)",
-  "b_sigma_mtotpreg_s" = "Total Pregnancies",
-  "b_sigma_bmi_s" = "BMI",
-  "b_sigma_smoke" = "Smoking Status",
-  "b_sigma_pc1_s" = "Cell Type PC1",
-  "b_sigma_pc2_s" = "Cell Type PC2",
-  "b_sigma_pc3_s" = "Cell Type PC3",
-  "b_sigma_tleqtot_s" = "Traumatic Life Events Total",
-  "b_sigma_ICErace_s" = "Residential Segregation (ICERace)",
-  "b_sigma_adjusted_income_s" = "Maternal Income"
+model_brms <- brm(
+  age_difference_CPC ~ ICErace_s + tleqtot_s + mage_s + pc1_s,
+  data = d_comb,
+  family = student()
 )
 
-xlim_custom <- c(-0.6, 0.6)
-# Create density plots of the parameter estimates
-library(bayesplot)
-library(ggplot2)
+# Summarize the model
+summary(model_brms)
 
-# Extract posterior samples
-posterior_samples <- as.matrix(fit)
+residuals_brms <- residuals(model_brms, summary = FALSE)
+# If residuals is a matrix, extract the first column
+if (is.matrix(residuals_brms)) {
+  residuals_brms <- residuals_brms[, 1]
+  
+  qqnorm(residuals_brms)
+  qqline(residuals_brms, col = "red")
+}
 
-# Create density plots of the parameter estimates s
+look <- ggplot(data = data.frame(residuals = residuals_brms), aes(sample = residuals)) +
+  stat_qq() +
+  stat_qq_line(col = "red") +
+  labs(title = "QQ Plot of Residuals from Bayesian Model",
+       x = "Theoretical Quantiles",
+       y = "Sample Quantiles") +
+  theme_minimal()
 
-
-plot_mu <- mcmc_areas(
-  posterior_samples,
-  pars = c("b_mage_s", "b_csexMale", "b_mtotpreg_s", "b_bmi_s", "b_smoke", "b_adjusted_income_s",
-           "b_pc1_s", "b_pc2_s", "b_pc3_s", "b_tleqtot_s", "b_ICErace_s"),
-  prob = 0.95  # 95% credible intervals
-) + 
-  ggtitle("1") +
-  theme_minimal() +
-  scale_y_discrete(labels = custom_labels)+
-  xlim(xlim_custom)
-
-plot_mu
-
-plot_sigma <- mcmc_areas(
-  posterior_samples,
-  pars = c("b_sigma_mage_s", "b_sigma_csexMale", "b_sigma_mtotpreg_s", "b_sigma_bmi_s", "b_sigma_smoke", "b_sigma_adjusted_income_s",
-           "b_sigma_pc1_s", "b_sigma_pc2_s", "b_sigma_pc3_s", "b_sigma_tleqtot_s", "b_sigma_ICErace_s"),
-  prob = 0.95  # 95% credible intervals
-) + 
-  ggtitle("2") +
-  theme_minimal() +
-  scale_y_discrete(labels = custom_labels)+
-  xlim(xlim_custom)
+print(look)
 
 
+Let's try a different approach to extract residuals from a brms model and create a QQ plot. The brms package stores residuals in the fitted model object, and we can extract them using the residuals() function.
 
-plot_sigma
-
-plot_mu + plot_sigma
-
-
-####But can you do it as an overlapping density plot??
-
-
-library(bayesplot)
-library(ggplot2)
-library(dplyr)
-library(tidyr)
-
-# Extract posterior samples
-posterior_samples <- as.matrix(fit)
-
-# Extract mean parameters (excluding b_sigma_ parameters)
-mean_params <- posterior_samples[, grepl("^b_", colnames(posterior_samples)) & !grepl("^b_sigma_", colnames(posterior_samples))]
-
-# Extract sigma parameters
-sigma_params <- posterior_samples[, grepl("^b_sigma_", colnames(posterior_samples))]
-
-# Convert to data frames
-mean_df <- as.data.frame(mean_params)
-sigma_df <- as.data.frame(sigma_params)
-
-# Add a column to identify the type of parameter
-mean_df$type <- "Mean"
-sigma_df$type <- "Sigma"
-
-mean_long <- mean_df %>%
-  pivot_longer(everything(), names_to = "param", values_to = "value") %>%
-  mutate(type = "Mean")
-
-sigma_long <- sigma_df %>%
-  pivot_longer(everything(), names_to = "param", values_to = "value") %>%
-  mutate(type = "Sigma")
-
-# Combine data frames
-combined_df <- bind_rows(mean_long, sigma_long)
-
-# Create density plots with overlapping densities
-plot_combined <- ggplot(combined_df, aes(x = value, fill = type, color = type)) +
-  geom_density(alpha = 0.5) +  # Overlapping density with transparency
-  facet_wrap(~param, scales = "free", ncol = 2) +  # Facet by parameter
-  labs(title = "Posterior Distributions of Mean and Sigma Coefficients",
-       x = "Value",
-       y = "Density") +
-  theme_minimal() +
-  theme(legend.position = "top")
-
-# Display the plot
-plot_combined
-
-
-# Display the plot
-plot_combined
-
-##Do it all again for ICEraceinc
-
-formula <- bf(age_difference_CPC ~ mage_s + csex  + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s,
-              sigma ~ mage_s + csex + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s)
-
-family <- gaussian()
-
-fit <- brm(formula = formula,
-           data = d_comb,
-           family = family,
-           chains = 4,     # Number of Markov chains
-           iter = 2000,    # Number of iterations per chain
-           warmup = 1000,  # Number of warmup iterations
-           cores = 4,      # Number of cores to use
-           seed = 123)     # Random seed for reproducibility
-
-summary(fit)
-
-plot(fit)
-
-
-
-pp_check(fit)  # Posterior predictive checks
-
-library(bayesplot)
-library(ggplot2)
+Here's a step-by-step guide:
+  
+  Fit your Bayesian model using brms.
+Extract the residuals.
+Create a QQ plot of the residuals.
+Example with Detailed Steps
+Fit the Bayesian Model:
+  r
+Copy code
+# Load necessary libraries
 library(brms)
-library(reshape2)
+library(ggplot2)
 
-## Plot the fixed effects 
-fixed_effects <- fixef(fit)
-fixed_effects_df <- as.data.frame(fixed_effects)
-fixed_effects_df$Parameter <- rownames(fixed_effects_df)
-sigma_parameters <- grepl("sigma_", fixed_effects_df$Parameter)
-fixed_effects_mean <- fixed_effects_df[!sigma_parameters, ]
-fixed_effects_sigma <- fixed_effects_df[sigma_parameters, ]
-names(fixed_effects_mean) <- c("Estimate", "Est.Error", "Q2.5", "Q97.5", "Parameter")
-names(fixed_effects_sigma) <- c("Estimate", "Est.Error", "Q2.5", "Q97.5", "Parameter")
+# Example data (replace with your actual data)
+# your_data <- data.frame(
+#   response_variable = ...,
+#   predictor_variable = ...
+# )
 
-segregation_full_mean <- ggplot(fixed_effects_mean, aes(x = Estimate, y = reorder(Parameter, Estimate))) +
-  geom_point() +
-  geom_errorbarh(aes(xmin = Q2.5, xmax = Q97.5), height = 0.2) +
-  theme_minimal() +
-  labs(
-    title = "Posterior Distributions of the Population-Level Effects (Mean)",
-    x = "Estimate",
-    y = "Parameter"
-  )
+# Fit a Bayesian robust linear model using a t-distribution
+model_brms <- brm(
+  response_variable ~ predictor_variable,
+  data = your_data,
+  family = student()
+)
 
-segregation_full_sigma <- ggplot(fixed_effects_sigma, aes(x = Estimate, y = reorder(Parameter, Estimate))) +
-  geom_point() +
-  geom_errorbarh(aes(xmin = Q2.5, xmax = Q97.5), height = 0.2) +
-  theme_minimal() +
-  labs(
-    title = "Posterior Distributions of the Population-Level Effects (Sigma)",
-    x = "Estimate",
-    y = "Parameter"
-  )
-library(patchwork)
-segregation_full <- segregation_full_mean+segregation_full_sigma
-segregation_full
-# Extract posterior samples
-posterior_samples <- as.matrix(fit)
-
-# Create density plots of the parameter estimates
-mcmc_areas(
-  posterior_samples,
-  pars = c("b_mage_s", "b_csexMale", "b_mtotpreg_s", "b_bmi_s", "b_smoke", 
-           "b_pc1_s", "b_pc2_s", "b_pc3_s", "b_tleqtot_s", "b_ICErace_s", 
-           "b_adjusted_income_s"),
-  prob = 0.95  # 95% credible intervals
-) + 
-  ggtitle("Posterior Distributions of the Coefficients") +
-  theme_minimal()
+# Summarize the model
+summary(model_brms)
 
 
-mcmc_areas(
-  posterior_samples,
-  pars = c("b_sigma_mage_s", "b_sigma_csexMale", "b_sigma_mtotpreg_s", "b_sigma_bmi_s", "b_sigma_smoke", 
-           "b_sigma_pc1_s", "b_sigma_pc2_s", "b_sigma_pc3_s", "b_sigma_tleqtot_s", "b_sigma_ICErace_s", 
-           "b_sigma_adjusted_income_s"),
-  prob = 0.95  # 95% credible intervals
-) + 
-  ggtitle("Posterior Distributions of the Mean Coefficients") +
-  theme_minimal()
+# Posterior predictive check with density overlay
 
+pp_check(model_brms, type = "dens_overlay")
 
+# Posterior predictive check with histogram
+pp_check(model_brms, type = "hist")
 
-
-
-
-## Black mothers
-
-formula <- bf(age_difference_CPC ~ mage_s + csex  + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s,
-              sigma ~ mage_s + csex + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s)
-
-family <- gaussian()
-
-fit <- brm(formula = formula,
-           data = d_black,
-           family = family,
-           chains = 4,     # Number of Markov chains
-           iter = 2000,    # Number of iterations per chain
-           warmup = 1000,  # Number of warmup iterations
-           cores = 4,      # Number of cores to use
-           seed = 123)     # Random seed for reproducibility
-
-summary(fit)
-
-plot(fit)
-
-pp_check(fit)  # Posterior predictive checks
-
-
-##white moms
-
-
-formula <- bf(age_difference_CPC ~ mage_s + csex  + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s,
-              sigma ~ mage_s + csex + mtotpreg_s +
-                bmi_s + smoke + pc1_s + pc2_s + pc3_s + tleqtot_s +
-                ICErace_s + adjusted_income_s)
-
-family <- gaussian()
-
-fit <- brm(formula = formula,
-           data = d_white,
-           family = family,
-           chains = 4,     # Number of Markov chains
-           iter = 2000,    # Number of iterations per chain
-           warmup = 1000,  # Number of warmup iterations
-           cores = 4,      # Number of cores to use
-           seed = 123)     # Random seed for reproducibility
-
-summary(fit)
-
-plot(fit)
-
-pp_check(fit)  # Posterior predictive checks
-
+# Posterior predictive check with boxplot
+pp_check(model_brms, type = "boxplot")

@@ -74,8 +74,6 @@ d$aces_pa <- d$tleq12
 d$aces_fv <- d$tleq13
 d$aces_sa <- d$tleq15
 d$worsttleq <- d$tleq21s
-d_tleq <- df %>% select(starts_with("tleq")) 
-df$tleqtot <- rowSums(d_tleq)
 d$smoke <- d$M1MB_TOBACCO
 d$smoke <- ifelse(d$smoke=="0:No", 0, 1)
 d$bmi <- as.numeric(d$M1MB_BMI)
@@ -91,12 +89,12 @@ d$zweight <- igb_wtkg2zscore(d$gestage_days, d$weightkg, sex = d$csex)
 d$pctweight <- igb_wtkg2centile(d$gestage_days, d$weightkg, sex = d$csex)
 d$zlength <- igb_lencm2zscore(d$gestage_days, d$length, sex = d$csex)
 d$pctlength <- igb_lencm2centile(d$gestage_days, d$length, sex = d$csex)
-hist(d$zweight)
+
 
 ## select variables for analysis and save dataset
 
 df<-d %>%
-  select( mage, mtotpreg, csex, hs, term, delivery, hypertension, diabetes, bmi, white, aa, asian, other_race, mhisp, mrace,gestage, tleq1, tleq2, tleq3, tleq4, tleq5, tleq6, tleq7, tleq8, tleq9, tleq10,tleq11, tleq14, tleq16, tleq17, tleq18, tleq19, tleq20, worsttleq, tleqtot, ICErace, ICEraceinc, ICEincome, adjusted_income, age_difference_CPC,residuals_CPC, Trophoblasts, Hofbauer,Endothelial,nRBC, Syncytiotrophoblast, CellType_PC1, CellType_PC2, CellType_PC3, CellType_PC4, CellType_PC5, meduc , smoke, zweight, zlength)
+  select( mage, mtotpreg, csex, hs, term, delivery, hypertension, diabetes, bmi, white, aa, asian, other_race, mhisp, mrace,gestage, tleq1, tleq2, tleq3, tleq4, tleq5, tleq6, tleq7, tleq8, tleq9, tleq10,tleq11, tleq14, tleq16, tleq17, tleq18, tleq19, tleq20, worsttleq, ICErace, ICEraceinc, ICEincome, adjusted_income, age_difference_CPC,residuals_CPC, Trophoblasts, Hofbauer,Endothelial,nRBC, Syncytiotrophoblast, CellType_PC1, CellType_PC2, CellType_PC3, CellType_PC4, CellType_PC5, meduc , smoke, zweight, zlength, weight, length)
 
 write_csv(df, "data_cooked/df.csv")
 
